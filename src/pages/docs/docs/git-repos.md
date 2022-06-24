@@ -29,7 +29,7 @@ template: docs
 - [https://github.com/bgoonz/bass-station](https://github.com/bgoonz/bass-station)
 - [https://github.com/bgoonz/bgoonz](https://github.com/bgoonz/bgoonz)
 - [https://github.com/bgoonz/BGOONZBLOG2.0STABLE](https://github.com/bgoonz/BGOONZBLOG2.0STABLE)
-- [https://github.com/bgoonz/BGOONZ_BLOG_2.0](https://github.com/bgoonz/BGOONZ_BLOG_2.0)
+- [https://github.com/BGOOONZ-BLOG/BLOG2](https://github.com/BGOOONZ-BLOG/BLOG2)
 - [https://github.com/bgoonz/Binary-Search](https://github.com/bgoonz/Binary-Search)
 - [https://github.com/bgoonz/blog-2.o-versions](https://github.com/bgoonz/blog-2.o-versions)
 - [https://github.com/bgoonz/blog-templates](https://github.com/bgoonz/blog-templates)
