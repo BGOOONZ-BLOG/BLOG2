@@ -181,7 +181,7 @@ template: docs
 <iframe src="https://ds-unit-5-lambda.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
 
 
-<iframe src="https://bgoonz-blog.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>docs/react/react-docs/
+<iframe src="https://blog2-backup.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>docs/react/react-docs/
 
 
 <iframe src="https://ds-algo-official.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
@@ -202,7 +202,7 @@ template: docs
 <iframe src="https://bgoonz-bookmarks.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
 
 
-<iframe src="https://bgoonz-blog.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>blog/
+<iframe src="https://blog2-backup.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>blog/
 
 
 <iframe src="https://docs42.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
@@ -211,7 +211,7 @@ template: docs
 <iframe src="https://learning-redux42.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
 
 
-<iframe src="https://bgoonz-blog.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>docs/interact/clock/
+<iframe src="https://blog2-backup.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>docs/interact/clock/
 
 
 <iframe src="https://friendly-amaranth-51833.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
@@ -220,29 +220,29 @@ template: docs
 <iframe src="http://blog-w-comments.vercel.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
 
 
-<iframe src="https://bgoonz-blog.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>docs/docs/git-reference/
+<iframe src="https://blog2-backup.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>docs/docs/git-reference/
 
 
 <iframe src="https://links4242.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
 
 
-<iframe src="https://bgoonz-blog.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>docs/interact/video-chat/
+<iframe src="https://blog2-backup.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>docs/interact/video-chat/
 
 
-<iframe src="https://bgoonz-blog.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>docs/interact/other-sites/
+<iframe src="https://blog2-backup.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>docs/interact/other-sites/
 
 
 
-<iframe src="https://bgoonz-blog.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
+<iframe src="https://blog2-backup.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
 
 
-<iframe src="https://bgoonz-blog.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>docs/interact/callstack-visual/
+<iframe src="https://blog2-backup.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>docs/interact/callstack-visual/
 
 
 <iframe src="https://bgoonz-cv.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
 
 
-<iframe src="https://bgoonz-blog.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>docs/tools/
+<iframe src="https://blog2-backup.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>docs/tools/
 
 
 <iframe src="https://bgoonz-blog-v3-0.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
@@ -257,7 +257,7 @@ template: docs
 <iframe src="https://githtmlpreview.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
 
 
-<iframe src="https://bgoonz-blog.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>docs/interact/
+<iframe src="https://blog2-backup.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>docs/interact/
 
 
 <iframe src="https://devtools42.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
@@ -284,16 +284,16 @@ template: docs
 <iframe src="https://dev-journal42.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
 
 
-<iframe src="https://bgoonz-blog.netlify.app/docs/faq/contact" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
+<iframe src="https://blog2-backup.netlify.app/docs/faq/contact" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
 
 
-<iframe src="https://bgoonz-blog.netlify.app/docs/content/trouble-shooting/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
+<iframe src="https://blog2-backup.netlify.app/docs/content/trouble-shooting/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
 
 
 <iframe src="https://archive.org/advancedsearch.php" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
 
 
-<iframe src="https://bgoonz-blog.netlify.app/docs/audio/dynamic-time-warping/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
+<iframe src="https://blog2-backup.netlify.app/docs/audio/dynamic-time-warping/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
 
 
 <iframe src="https://bgoonzconnekt4.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" frameborder="0" ></iframe>
