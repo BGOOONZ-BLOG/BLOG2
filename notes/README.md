@@ -12,7 +12,7 @@
 
 <div align="center">
 
-##### [Cloudfare-Backup](https://bgoonz-blog-2-0.pages.dev/) ⇨ [search](https://www.algolia.com/realtime-search-demo/web-dev-resource-hub-9e6b8aa8-6106-44c5-9f59-ff3f9531abd4) ⇨ [Backup Repo Deploy](https://bgoonzblog20-backup.netlify.app/#gsc.tab=0) ⇨ [Github pages](https://bgoonz.github.io/BGOONZ_BLOG_2.0/) ⇨ [Go To Site Wiki](https://github.com/bgoonz/BGOONZ_BLOG_2.0/wiki) ⇨ [Gatsby Cloud Version](https://bgoonzblog20master.gatsbyjs.io/)
+##### [Cloudfare-Backup](https://bgoonz-blog-2-0.pages.dev/) ⇨ [search](https://www.algolia.com/realtime-search-demo/web-dev-resource-hub-9e6b8aa8-6106-44c5-9f59-ff3f9531abd4) ⇨ [Backup Repo Deploy](https://bgoonzblog20-backup.netlify.app/#gsc.tab=0) ⇨ [Github pages](https://bgoonz.github.io/BGOONZ_BLOG_2.0/) ⇨ [Go To Site Wiki](https://github.com/BGOOONZ-BLOG/BLOG2/wiki) ⇨ [Gatsby Cloud Version](https://bgoonzblog20master.gatsbyjs.io/)
 
 ###### [⇨Privacy policy⇦](https://codepen.io/bgoonz/pen/LYLJZrW)
 
@@ -27,11 +27,11 @@
 
 ---
 
-![preview](https://github.com/bgoonz/BGOONZ_BLOG_2.0/blob/master/static/images/blog-preview.png?raw=true)
+![preview](https://github.com/BGOOONZ-BLOG/BLOG2/blob/master/static/images/blog-preview.png?raw=true)
 
 ---
   
-<a href="https://testmysite.io/61e5ff836a840eeeef7e78e9/bgoonz-blog.netlify.app" rel="Test My Site Results">![Foo](https://github.com/bgoonz/BGOONZ_BLOG_2.0/blob/master/static/images/Screenshot%202022-03-30%20at%2012-37-24%20Website%20Speed%20Test%20Tool%20-%20Testmysite.io%20by%20Netlify.png?raw=true)</a>
+<a href="https://testmysite.io/61e5ff836a840eeeef7e78e9/bgoonz-blog.netlify.app" rel="Test My Site Results">![Foo](https://github.com/BGOOONZ-BLOG/BLOG2/blob/master/static/images/Screenshot%202022-03-30%20at%2012-37-24%20Website%20Speed%20Test%20Tool%20-%20Testmysite.io%20by%20Netlify.png?raw=true)</a>
   
 </div>
 
