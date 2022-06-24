@@ -125,7 +125,7 @@
                     },
                     {
                         "label": "Career-Tips",
-                        "url": "https://bgoonz-blog.netlify.app/docs/career/",
+                        "url": "https://blog2-backup.netlify.app/docs/career/",
                         "style": "primary",
                         "icon_class": "dev",
                         "new_window": false,
@@ -508,6 +508,6 @@
         "content": "@bgoonz on almost every platform"
     },
     "title": "webdevhub",
-    "domain": "https://bgoonz-blog.netlify.app/",
+    "domain": "https://blog2-backup.netlify.app/",
     "favicon": "images/logo-final-touchup.PNG"
 }
