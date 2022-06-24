@@ -4,1103 +4,952 @@ weight: 0
 excerpt: Sitemap
 seo:
     title: 'Sitemap'
-    description: 'Sitemap'
+    description: 'Website Navigation Layout'
     robots: []
     extra: []
     type: stackbit_page_meta
 template: docs
 ---
 
-<div id="search>
 
-# - [**✅HOME🌍**](https://blog2-backup.netlify.app/)
+<details>
 
-***
+<summary>  Update </summary>
+ 
 
-### [**✅blog/🌍**](https://blog2-backup.netlify.app/blog/)
 
-### [**✅blog/awesome-graphql/🌍**](https://blog2-backup.netlify.app/blog/awesome-graphql/)
+- [Home](https://blog2-backup.netlify.app/)
 
-### [**✅blog/big-o-complexity/🌍**](https://blog2-backup.netlify.app/blog/big-o-complexity/)
+---
 
-### [**✅blog/blog-archive/🌍**](https://blog2-backup.netlify.app/blog/blog-archive/)
 
-### [**✅blog/blogwcomments/🌍**](https://blog2-backup.netlify.app/blog/blogwcomments/)
+- [admin](https://blog2-backup.netlify.app/admin)
 
-### [**✅blog/data-structures/🌍**](https://blog2-backup.netlify.app/blog/data-structures/)
+---
 
-### [**✅blog/git-gateway/🌍**](https://blog2-backup.netlify.app/blog/git-gateway/)
 
-### [**✅blog/interview-questions-js/🌍**](https://blog2-backup.netlify.app/blog/interview-questions-js/)
+- [blog](https://blog2-backup.netlify.app/blog)
 
-### [**✅blog/my-medium/🌍**](https://blog2-backup.netlify.app/blog/my-medium/)
+---
 
-### [**✅blog/netlify-cms/🌍**](https://blog2-backup.netlify.app/blog/netlify-cms/)
 
-### [**✅blog/platform-docs/🌍**](https://blog2-backup.netlify.app/blog/platform-docs/)
+- [blog/300-react-questions](https://blog2-backup.netlify.app/blog/300-react-questions)
+- [blog/awesome-graphql](https://blog2-backup.netlify.app/blog/awesome-graphql)
+- [blog/big-o-complexity](https://blog2-backup.netlify.app/blog/big-o-complexity)
+- [blog/blog-archive](https://blog2-backup.netlify.app/blog/blog-archive)
+- [blog/data-structures](https://blog2-backup.netlify.app/blog/data-structures)
+- [blog/expressjs-apis](https://blog2-backup.netlify.app/blog/expressjs-apis)
+- [blog/flow-control-in-python](https://blog2-backup.netlify.app/blog/flow-control-in-python)
+- [blog/functions-in-python](https://blog2-backup.netlify.app/blog/functions-in-python)
+- [blog/git-gateway](https://blog2-backup.netlify.app/blog/git-gateway)
+- [blog/hoisting](https://blog2-backup.netlify.app/blog/hoisting)
+- [blog/interview-questions-js-p2](https://blog2-backup.netlify.app/blog/interview-questions-js-p2)
+- [blog/interview-questions-js-p3](https://blog2-backup.netlify.app/blog/interview-questions-js-p3)
+- [blog/interview-questions-js](https://blog2-backup.netlify.app/blog/interview-questions-js)
+- [blog/netlify-cms](https://blog2-backup.netlify.app/blog/netlify-cms)
+- [blog/platform-docs](https://blog2-backup.netlify.app/blog/platform-docs)
+- [blog/python-for-js-dev](https://blog2-backup.netlify.app/blog/python-for-js-dev)
+- [blog/python-resources](https://blog2-backup.netlify.app/blog/python-resources)
+- [blog/web-dev-trends](https://blog2-backup.netlify.app/blog/web-dev-trends)
+- [blog/web-scraping](https://blog2-backup.netlify.app/blog/web-scraping)
 
-### [**✅blog/python-for-js-dev/🌍**](https://blog2-backup.netlify.app/blog/python-for-js-dev/)
+---
 
-### [**✅blog/python-resources/🌍**](https://blog2-backup.netlify.app/blog/python-resources/)
 
-### [**✅blog/web-dev-trends/🌍**](https://blog2-backup.netlify.app/blog/web-dev-trends/)
 
-### [**✅blog/web-scraping/🌍**](https://blog2-backup.netlify.app/blog/web-scraping/)
+- [docs](https://blog2-backup.netlify.app/docs)
 
-***
+---
 
-### [**✅⇒🌍**](https://blog2-backup.netlify.app/docs/)
 
-***
+- [docs/about](https://blog2-backup.netlify.app/docs/about)
+- [docs/about/eng-portfolio](https://blog2-backup.netlify.app/docs/about/eng-portfolio)
+- [docs/about/intrests](https://blog2-backup.netlify.app/docs/about/intrests)
+- [docs/about/job-search](https://blog2-backup.netlify.app/docs/about/job-search)
+- [docs/about/README](https://blog2-backup.netlify.app/docs/about/README)
+- [docs/about/resume](https://blog2-backup.netlify.app/docs/about/resume)
 
-### [**✅⇒about/🌍**](https://blog2-backup.netlify.app/docs/about/)
+---
 
-### [**✅⇒about/eng-portfolio/🌍**](https://blog2-backup.netlify.app/docs/about/eng-portfolio/)
 
-### [**✅⇒about/intrests/🌍**](https://blog2-backup.netlify.app/docs/about/intrests/)
 
-### [**✅⇒about/job-search/🌍**](https://blog2-backup.netlify.app/docs/about/job-search/)
+- [docs/articles](https://blog2-backup.netlify.app/docs/articles)
+- [docs/articles/basic-web-dev](https://blog2-backup.netlify.app/docs/articles/basic-web-dev)
+- [docs/articles/buffers](https://blog2-backup.netlify.app/docs/articles/buffers)
+- [docs/articles/common-modules](https://blog2-backup.netlify.app/docs/articles/common-modules)
+- [docs/articles/dev-dep](https://blog2-backup.netlify.app/docs/articles/dev-dep)
+- [docs/articles/event-loop](https://blog2-backup.netlify.app/docs/articles/event-loop)
+- [docs/articles/fs-module](https://blog2-backup.netlify.app/docs/articles/fs-module)
+- [docs/articles/how-search-engines-work](https://blog2-backup.netlify.app/docs/articles/how-search-engines-work)
+- [docs/articles/how-the-web-works](https://blog2-backup.netlify.app/docs/articles/how-the-web-works)
+- [docs/articles/intro](https://blog2-backup.netlify.app/docs/articles/intro)
+- [docs/articles/jamstack](https://blog2-backup.netlify.app/docs/articles/jamstack)
+- [docs/articles/nextjs](https://blog2-backup.netlify.app/docs/articles/nextjs)
+- [docs/articles/node-api-express](https://blog2-backup.netlify.app/docs/articles/node-api-express)
+- [docs/articles/npm](https://blog2-backup.netlify.app/docs/articles/npm)
+- [docs/articles/os-module](https://blog2-backup.netlify.app/docs/articles/os-module)
+- [docs/articles/reading-files](https://blog2-backup.netlify.app/docs/articles/reading-files)
+- [docs/articles/semantic-html](https://blog2-backup.netlify.app/docs/articles/semantic-html)
+- [docs/articles/semantic](https://blog2-backup.netlify.app/docs/articles/semantic)
+- [docs/articles/url](https://blog2-backup.netlify.app/docs/articles/url)
+- [docs/articles/web-standards-checklist](https://blog2-backup.netlify.app/docs/articles/web-standards-checklist)
+- [docs/articles/webdev-tools](https://blog2-backup.netlify.app/docs/articles/webdev-tools)
+- [docs/articles/writing-files](https://blog2-backup.netlify.app/docs/articles/writing-files)
 
-### [**✅⇒about/resume/🌍**](https://blog2-backup.netlify.app/docs/about/resume/)
+---
 
-***
 
-### [**✅⇒articles/🌍**](https://blog2-backup.netlify.app/docs/articles/)
 
-### [**✅⇒articles/basic-web-dev/🌍**](https://blog2-backup.netlify.app/docs/articles/basic-web-dev/)
+- [docs/audio](https://blog2-backup.netlify.app/docs/audio)
+- [docs/audio/dfft](https://blog2-backup.netlify.app/docs/audio/dfft)
+- [docs/audio/discrete-fft](https://blog2-backup.netlify.app/docs/audio/discrete-fft)
+- [docs/audio/dtw-python-explained](https://blog2-backup.netlify.app/docs/audio/dtw-python-explained)
+- [docs/audio/dynamic-time-warping](https://blog2-backup.netlify.app/docs/audio/dynamic-time-warping)
+- [docs/audio/web-audio-api](https://blog2-backup.netlify.app/docs/audio/web-audio-api)
 
-### [**✅⇒articles/buffers/🌍**](https://blog2-backup.netlify.app/docs/articles/buffers/)
+---
 
-### [**✅⇒articles/dev-dep/🌍**](https://blog2-backup.netlify.app/docs/articles/dev-dep/)
 
-### [**✅⇒articles/event-loop/🌍**](https://blog2-backup.netlify.app/docs/articles/event-loop/)
 
-### [**✅⇒articles/fs-module/🌍**](https://blog2-backup.netlify.app/docs/articles/fs-module/)
+- [docs/career](https://blog2-backup.netlify.app/docs/career)
+- [docs/career/job-boards](https://blog2-backup.netlify.app/docs/career/job-boards)
+- [docs/career/list-of-projects](https://blog2-backup.netlify.app/docs/career/list-of-projects)
+- [docs/career/my-websites](https://blog2-backup.netlify.app/docs/career/my-websites)
 
-### [**✅⇒articles/how-the-web-works/🌍**](https://blog2-backup.netlify.app/docs/articles/how-the-web-works/)
+---
 
-### [**✅⇒articles/http/🌍**](https://blog2-backup.netlify.app/docs/articles/http/)
 
-### [**✅⇒articles/install/🌍**](https://blog2-backup.netlify.app/docs/articles/install/)
 
-### [**✅⇒articles/intro/🌍**](https://blog2-backup.netlify.app/docs/articles/intro/)
+- [docs/community](https://blog2-backup.netlify.app/docs/community)
+- [docs/community/an-open-letter-2-future-developers](https://blog2-backup.netlify.app/docs/community/an-open-letter-2-future-developers)
+- [docs/community/bookmarks](https://blog2-backup.netlify.app/docs/community/bookmarks)
+- [docs/community/video-chat](https://blog2-backup.netlify.app/docs/community/video-chat)
 
-### [**✅⇒articles/module-exports/🌍**](https://blog2-backup.netlify.app/docs/articles/module-exports/)
+---
 
-### [**✅⇒articles/node-api-express/🌍**](https://blog2-backup.netlify.app/docs/articles/node-api-express/)
 
-### [**✅⇒articles/node-cli-args/🌍**](https://blog2-backup.netlify.app/docs/articles/node-cli-args/)
 
-### [**✅⇒articles/node-common-modules/🌍**](https://blog2-backup.netlify.app/docs/articles/node-common-modules/)
+- [docs/content](https://blog2-backup.netlify.app/docs/content)
+- [docs/content/algo](https://blog2-backup.netlify.app/docs/content/algo)
+- [docs/content/archive](https://blog2-backup.netlify.app/docs/content/archive)
+- [docs/content/gatsby-Queries-Mutations](https://blog2-backup.netlify.app/docs/content/gatsby-Queries-Mutations)
+- [docs/content/gists](https://blog2-backup.netlify.app/docs/content/gists)
+- [docs/content/history-api](https://blog2-backup.netlify.app/docs/content/history-api)
+- [docs/content/main-projects](https://blog2-backup.netlify.app/docs/content/main-projects)
+- [docs/content/trouble-shooting](https://blog2-backup.netlify.app/docs/content/trouble-shooting)
 
-### [**✅⇒articles/node-env-variables/🌍**](https://blog2-backup.netlify.app/docs/articles/node-env-variables/)
+---
 
-### [**✅⇒articles/node-js-language/🌍**](https://blog2-backup.netlify.app/docs/articles/node-js-language/)
 
-### [**✅⇒articles/node-package-manager/🌍**](https://blog2-backup.netlify.app/docs/articles/node-package-manager/)
 
-### [**✅⇒articles/node-repl/🌍**](https://blog2-backup.netlify.app/docs/articles/node-repl/)
+- [docs/docs](https://blog2-backup.netlify.app/docs/docs)
+- [docs/docs/appendix](https://blog2-backup.netlify.app/docs/docs/appendix)
+- [docs/docs/bash](https://blog2-backup.netlify.app/docs/docs/bash)
+- [docs/docs/css](https://blog2-backup.netlify.app/docs/docs/css)
+- [docs/docs/es-6-features](https://blog2-backup.netlify.app/docs/docs/es-6-features)
+- [docs/docs/git-reference](https://blog2-backup.netlify.app/docs/docs/git-reference)
+- [docs/docs/git-repos](https://blog2-backup.netlify.app/docs/docs/git-repos)
+- [docs/docs/glossary](https://blog2-backup.netlify.app/docs/docs/glossary)
+- [docs/docs/html-tags](https://blog2-backup.netlify.app/docs/docs/html-tags)
+- [docs/docs/markdown](https://blog2-backup.netlify.app/docs/docs/markdown)
+- [docs/docs/no-whiteboarding](https://blog2-backup.netlify.app/docs/docs/no-whiteboarding)
+- [docs/docs/node-docs-complete](https://blog2-backup.netlify.app/docs/docs/node-docs-complete)
+- [docs/docs/regex-in-js](https://blog2-backup.netlify.app/docs/docs/regex-in-js)
+- [docs/docs/sitemap](https://blog2-backup.netlify.app/docs/docs/sitemap)
+
+---
+
+
+
+- [docs/ds-algo](https://blog2-backup.netlify.app/docs/ds-algo)
+- [docs/ds-algo/big-o](https://blog2-backup.netlify.app/docs/ds-algo/big-o)
+- [docs/ds-algo/data-structures-docs](https://blog2-backup.netlify.app/docs/ds-algo/data-structures-docs)
+- [docs/ds-algo/ds-algo-interview](https://blog2-backup.netlify.app/docs/ds-algo/ds-algo-interview)
+- [docs/ds-algo/ds-overview](https://blog2-backup.netlify.app/docs/ds-algo/ds-overview)
+- [docs/ds-algo/free-code-camp](https://blog2-backup.netlify.app/docs/ds-algo/free-code-camp)
+- [docs/ds-algo/graph](https://blog2-backup.netlify.app/docs/ds-algo/graph)
+- [docs/ds-algo/heaps](https://blog2-backup.netlify.app/docs/ds-algo/heaps)
+- [docs/ds-algo/tree](https://blog2-backup.netlify.app/docs/ds-algo/tree)
+
+---
+
+
+
+- [docs/faq](https://blog2-backup.netlify.app/docs/faq)
+- [docs/faq/contact](https://blog2-backup.netlify.app/docs/faq/contact)
+- [docs/faq/plug-ins](https://blog2-backup.netlify.app/docs/faq/plug-ins)
+
+---
+
+
+
+- [docs/interact](https://blog2-backup.netlify.app/docs/interact)
+- [docs/interact/callstack-visual](https://blog2-backup.netlify.app/docs/interact/callstack-visual)
+- [docs/interact/clock](https://blog2-backup.netlify.app/docs/interact/clock)
+- [docs/interact/jupyter-notebooks](https://blog2-backup.netlify.app/docs/interact/jupyter-notebooks)
+- [docs/interact/other-sites](https://blog2-backup.netlify.app/docs/interact/other-sites)
+- [docs/interact/react-testing-library](https://blog2-backup.netlify.app/docs/interact/react-testing-library)
+- [docs/interact/video-chat](https://blog2-backup.netlify.app/docs/interact/video-chat)
+
+---
+
+
+
+- [docs/interview](https://blog2-backup.netlify.app/docs/interview)
+- [docs/interview/dev-interview](https://blog2-backup.netlify.app/docs/interview/dev-interview)
+- [docs/interview/dos-and-donts](https://blog2-backup.netlify.app/docs/interview/dos-and-donts)
+- [docs/interview/interview-questions](https://blog2-backup.netlify.app/docs/interview/interview-questions)
+- [docs/interview/job-search-nav](https://blog2-backup.netlify.app/docs/interview/job-search-nav)
+- [docs/interview/previous-concepts](https://blog2-backup.netlify.app/docs/interview/previous-concepts)
+- [docs/interview/review-concepts](https://blog2-backup.netlify.app/docs/interview/review-concepts)
+- [docs/interview/web-interview](https://blog2-backup.netlify.app/docs/interview/web-interview)
+- [docs/interview/web-interview2](https://blog2-backup.netlify.app/docs/interview/web-interview2)
+- [docs/interview/web-interview3](https://blog2-backup.netlify.app/docs/interview/web-interview3)
+- [docs/interview/web-interview4](https://blog2-backup.netlify.app/docs/interview/web-interview4)
+
+---
+
+
+
+- [docs/javascript](https://blog2-backup.netlify.app/docs/javascript)
+- [docs/javascript/arrow-functions](https://blog2-backup.netlify.app/docs/javascript/arrow-functions)
+- [docs/javascript/asyncjs](https://blog2-backup.netlify.app/docs/javascript/asyncjs)
+- [docs/javascript/await-keyword](https://blog2-backup.netlify.app/docs/javascript/await-keyword)
+- [docs/javascript/bigo](https://blog2-backup.netlify.app/docs/javascript/bigo)
+- [docs/javascript/clean-code](https://blog2-backup.netlify.app/docs/javascript/clean-code)
+- [docs/javascript/constructor-functions](https://blog2-backup.netlify.app/docs/javascript/constructor-functions)
+- [docs/javascript/cs-basics-in-js](https://blog2-backup.netlify.app/docs/javascript/cs-basics-in-js)
+- [docs/javascript/for-loops](https://blog2-backup.netlify.app/docs/javascript/for-loops)
+- [docs/javascript/js-expressions](https://blog2-backup.netlify.app/docs/javascript/js-expressions)
+- [docs/javascript/js-objects](https://blog2-backup.netlify.app/docs/javascript/js-objects)
+- [docs/javascript/part2-pojo](https://blog2-backup.netlify.app/docs/javascript/part2-pojo)
+- [docs/javascript/promises](https://blog2-backup.netlify.app/docs/javascript/promises)
+- [docs/javascript/review](https://blog2-backup.netlify.app/docs/javascript/review)
+- [docs/javascript/this-is-about-this](https://blog2-backup.netlify.app/docs/javascript/this-is-about-this)
+- [docs/javascript/variables](https://blog2-backup.netlify.app/docs/javascript/variables)
+
+---
 
-### [**✅⇒articles/node-run-cli/🌍**](https://blog2-backup.netlify.app/docs/articles/node-run-cli/)
 
-### [**✅⇒articles/nodejs/🌍**](https://blog2-backup.netlify.app/docs/articles/nodejs/)
 
-### [**✅⇒articles/nodevsbrowser/🌍**](https://blog2-backup.netlify.app/docs/articles/nodevsbrowser/)
+- [docs/js-tips](https://blog2-backup.netlify.app/docs/js-tips)
+- [docs/js-tips/abs](https://blog2-backup.netlify.app/docs/js-tips/abs)
+- [docs/js-tips/acos](https://blog2-backup.netlify.app/docs/js-tips/acos)
+- [docs/js-tips/acosh](https://blog2-backup.netlify.app/docs/js-tips/acosh)
+- [docs/js-tips/addition](https://blog2-backup.netlify.app/docs/js-tips/addition)
+- [docs/js-tips/all](https://blog2-backup.netlify.app/docs/js-tips/all)
+- [docs/js-tips/allsettled](https://blog2-backup.netlify.app/docs/js-tips/allsettled)
+- [docs/js-tips/any](https://blog2-backup.netlify.app/docs/js-tips/any)
+- [docs/js-tips/array-methods](https://blog2-backup.netlify.app/docs/js-tips/array-methods)
+- [docs/js-tips/array](https://blog2-backup.netlify.app/docs/js-tips/array)
+- [docs/js-tips/arrow_functions](https://blog2-backup.netlify.app/docs/js-tips/arrow_functions)
+- [docs/js-tips/async_function](https://blog2-backup.netlify.app/docs/js-tips/async_function)
+- [docs/js-tips/bad_radix](https://blog2-backup.netlify.app/docs/js-tips/bad_radix)
+- [docs/js-tips/bind](https://blog2-backup.netlify.app/docs/js-tips/bind)
+- [docs/js-tips/classes](https://blog2-backup.netlify.app/docs/js-tips/classes)
+- [docs/js-tips/concat](https://blog2-backup.netlify.app/docs/js-tips/concat)
+- [docs/js-tips/conditional_operator](https://blog2-backup.netlify.app/docs/js-tips/conditional_operator)
+- [docs/js-tips/const](https://blog2-backup.netlify.app/docs/js-tips/const)
+- [docs/js-tips/create](https://blog2-backup.netlify.app/docs/js-tips/create)
+- [docs/js-tips/date](https://blog2-backup.netlify.app/docs/js-tips/date)
+- [docs/js-tips/eval](https://blog2-backup.netlify.app/docs/js-tips/eval)
+- [docs/js-tips/every](https://blog2-backup.netlify.app/docs/js-tips/every)
+- [docs/js-tips/filter](https://blog2-backup.netlify.app/docs/js-tips/filter)
+- [docs/js-tips/for...of](https://blog2-backup.netlify.app/docs/js-tips/for...of)
+- [docs/js-tips/foreach](https://blog2-backup.netlify.app/docs/js-tips/foreach)
+- [docs/js-tips/functions](https://blog2-backup.netlify.app/docs/js-tips/functions)
+- [docs/js-tips/import](https://blog2-backup.netlify.app/docs/js-tips/import)
+- [docs/js-tips/insert-into-array](https://blog2-backup.netlify.app/docs/js-tips/insert-into-array)
+- [docs/js-tips/map](https://blog2-backup.netlify.app/docs/js-tips/map)
+- [docs/js-tips/object](https://blog2-backup.netlify.app/docs/js-tips/object)
+- [docs/js-tips/reduce](https://blog2-backup.netlify.app/docs/js-tips/reduce)
+- [docs/js-tips/regexp](https://blog2-backup.netlify.app/docs/js-tips/regexp)
+- [docs/js-tips/sort](https://blog2-backup.netlify.app/docs/js-tips/sort)
+- [docs/js-tips/sorting-strings](https://blog2-backup.netlify.app/docs/js-tips/sorting-strings)
+- [docs/js-tips/string](https://blog2-backup.netlify.app/docs/js-tips/string)
+- [docs/js-tips/this](https://blog2-backup.netlify.app/docs/js-tips/this)
+- [docs/js-tips/var](https://blog2-backup.netlify.app/docs/js-tips/var)
+
+---
+
+
+
+- [docs/leetcode](https://blog2-backup.netlify.app/docs/leetcode)
+- [docs/leetcode/ContaineWitMosWater](https://blog2-backup.netlify.app/docs/leetcode/ContaineWitMosWater)
+- [docs/leetcode/DividTwIntegers](https://blog2-backup.netlify.app/docs/leetcode/DividTwIntegers)
+- [docs/leetcode/GeneratParentheses](https://blog2-backup.netlify.app/docs/leetcode/GeneratParentheses)
+- [docs/leetcode/LetteCombinationoPhonNumber](https://blog2-backup.netlify.app/docs/leetcode/LetteCombinationoPhonNumber)
+- [docs/leetcode/LongesCommoPrefix](https://blog2-backup.netlify.app/docs/leetcode/LongesCommoPrefix)
+- [docs/leetcode/MediaoTwSorteArrays](https://blog2-backup.netlify.app/docs/leetcode/MediaoTwSorteArrays)
+- [docs/leetcode/NexPermutation](https://blog2-backup.netlify.app/docs/leetcode/NexPermutation)
+- [docs/leetcode/PalindromNumber](https://blog2-backup.netlify.app/docs/leetcode/PalindromNumber)
+- [docs/leetcode/RegulaExpressioMatching](https://blog2-backup.netlify.app/docs/leetcode/RegulaExpressioMatching)
+- [docs/leetcode/RemovDuplicatefroSorteArray](https://blog2-backup.netlify.app/docs/leetcode/RemovDuplicatefroSorteArray)
+- [docs/leetcode/RemovNtNodFroEnoList](https://blog2-backup.netlify.app/docs/leetcode/RemovNtNodFroEnoList)
+- [docs/leetcode/RomatInteger](https://blog2-backup.netlify.app/docs/leetcode/RomatInteger)
+- [docs/leetcode/SearciRotateSorteArray](https://blog2-backup.netlify.app/docs/leetcode/SearciRotateSorteArray)
+- [docs/leetcode/StrintIntege(atoi)](https://blog2-backup.netlify.app/docs/leetcode/StrintIntege(atoi))
+- [docs/leetcode/ValiParentheses](https://blog2-backup.netlify.app/docs/leetcode/ValiParentheses)
+- [docs/leetcode/ZigZaConversion](https://blog2-backup.netlify.app/docs/leetcode/ZigZaConversion)
+
+---
+
+
+
+- [docs/overflow](https://blog2-backup.netlify.app/docs/overflow)
+- [docs/overflow/html-spec](https://blog2-backup.netlify.app/docs/overflow/html-spec)
+- [docs/overflow/http](https://blog2-backup.netlify.app/docs/overflow/http)
+- [docs/overflow/install](https://blog2-backup.netlify.app/docs/overflow/install)
+- [docs/overflow/modules](https://blog2-backup.netlify.app/docs/overflow/modules)
+- [docs/overflow/node-cli-args](https://blog2-backup.netlify.app/docs/overflow/node-cli-args)
+- [docs/overflow/node-js-language](https://blog2-backup.netlify.app/docs/overflow/node-js-language)
+- [docs/overflow/node-package-manager](https://blog2-backup.netlify.app/docs/overflow/node-package-manager)
+- [docs/overflow/node-repl](https://blog2-backup.netlify.app/docs/overflow/node-repl)
+- [docs/overflow/node-run-cli](https://blog2-backup.netlify.app/docs/overflow/node-run-cli)
+- [docs/overflow/nodejs](https://blog2-backup.netlify.app/docs/overflow/nodejs)
+- [docs/overflow/nodevsbrowser](https://blog2-backup.netlify.app/docs/overflow/nodevsbrowser)
+- [docs/overflow/understanding-firebase](https://blog2-backup.netlify.app/docs/overflow/understanding-firebase)
+- [docs/overflow/v8](https://blog2-backup.netlify.app/docs/overflow/v8)
+
+---
+
+
+
+- [docs/privacy-policy](https://blog2-backup.netlify.app/docs/privacy-policy)
+
+---
+
+
+
+- [docs/projects](https://blog2-backup.netlify.app/docs/projects)
+- [docs/projects/embeded-websites](https://blog2-backup.netlify.app/docs/projects/embeded-websites)
+- [docs/projects/mini-projects](https://blog2-backup.netlify.app/docs/projects/mini-projects)
+- [docs/projects/mini-projects2](https://blog2-backup.netlify.app/docs/projects/mini-projects2)
+
+---
+
+
 
-### [**✅⇒articles/npm/🌍**](https://blog2-backup.netlify.app/docs/articles/npm/)
+- [docs/python](https://blog2-backup.netlify.app/docs/python)
+- [docs/python/at-length](https://blog2-backup.netlify.app/docs/python/at-length)
+- [docs/python/cheat-sheet](https://blog2-backup.netlify.app/docs/python/cheat-sheet)
+- [docs/python/comprehensive-guide](https://blog2-backup.netlify.app/docs/python/comprehensive-guide)
+- [docs/python/examples](https://blog2-backup.netlify.app/docs/python/examples)
+- [docs/python/flow-control](https://blog2-backup.netlify.app/docs/python/flow-control)
+- [docs/python/functions](https://blog2-backup.netlify.app/docs/python/functions)
+- [docs/python/google-sheets-api](https://blog2-backup.netlify.app/docs/python/google-sheets-api)
+- [docs/python/intro-for-js-devs](https://blog2-backup.netlify.app/docs/python/intro-for-js-devs)
+- [docs/python/python-ds](https://blog2-backup.netlify.app/docs/python/python-ds)
+- [docs/python/python-quiz](https://blog2-backup.netlify.app/docs/python/python-quiz)
+- [docs/python/snippets](https://blog2-backup.netlify.app/docs/python/snippets)
 
-### [**✅⇒articles/npx/🌍**](https://blog2-backup.netlify.app/docs/articles/npx/)
+---
 
-### [**✅⇒articles/os-module/🌍**](https://blog2-backup.netlify.app/docs/articles/os-module/)
 
-### [**✅⇒articles/reading-files/🌍**](https://blog2-backup.netlify.app/docs/articles/reading-files/)
 
-### [**✅⇒articles/semantic-html/🌍**](https://blog2-backup.netlify.app/docs/articles/semantic-html/)
+- [docs/quick-ref](https://blog2-backup.netlify.app/docs/quick-ref)
+- [docs/quick-ref/all-emojis](https://blog2-backup.netlify.app/docs/quick-ref/all-emojis)
+- [docs/quick-ref/create-react-app](https://blog2-backup.netlify.app/docs/quick-ref/create-react-app)
+- [docs/quick-ref/Emmet](https://blog2-backup.netlify.app/docs/quick-ref/Emmet)
+- [docs/quick-ref/fetch](https://blog2-backup.netlify.app/docs/quick-ref/fetch)
+- [docs/quick-ref/git-bash](https://blog2-backup.netlify.app/docs/quick-ref/git-bash)
+- [docs/quick-ref/git-tricks](https://blog2-backup.netlify.app/docs/quick-ref/git-tricks)
+- [docs/quick-ref/google-firebase](https://blog2-backup.netlify.app/docs/quick-ref/google-firebase)
+- [docs/quick-ref/heroku-error-codes](https://blog2-backup.netlify.app/docs/quick-ref/heroku-error-codes)
+- [docs/quick-ref/installation](https://blog2-backup.netlify.app/docs/quick-ref/installation)
+- [docs/quick-ref/markdown-dropdowns](https://blog2-backup.netlify.app/docs/quick-ref/markdown-dropdowns)
+- [docs/quick-ref/minifiction](https://blog2-backup.netlify.app/docs/quick-ref/minifiction)
+- [docs/quick-ref/new-repo-instructions](https://blog2-backup.netlify.app/docs/quick-ref/new-repo-instructions)
+- [docs/quick-ref/pull-request-rubric](https://blog2-backup.netlify.app/docs/quick-ref/pull-request-rubric)
+- [docs/quick-ref/quick-links](https://blog2-backup.netlify.app/docs/quick-ref/quick-links)
+- [docs/quick-ref/topRepos](https://blog2-backup.netlify.app/docs/quick-ref/topRepos)
+- [docs/quick-ref/understanding-path](https://blog2-backup.netlify.app/docs/quick-ref/understanding-path)
+- [docs/quick-ref/vscode-themes](https://blog2-backup.netlify.app/docs/quick-ref/vscode-themes)
 
-### [**✅⇒articles/semantic/🌍**](https://blog2-backup.netlify.app/docs/articles/semantic/)
+---
 
-### [**✅⇒articles/the-uniform-resource-locator-(url)/🌍**](https://blog2-backup.netlify.app/docs/articles/the-uniform-resource-locator-\(url\)/)
 
-### [**✅⇒articles/understanding-firebase/🌍**](https://blog2-backup.netlify.app/docs/articles/understanding-firebase/)
 
-### [**✅⇒articles/v8/🌍**](https://blog2-backup.netlify.app/docs/articles/v8/)
+- [docs/react](https://blog2-backup.netlify.app/docs/react)
+- [docs/react/accessibility](https://blog2-backup.netlify.app/docs/react/accessibility)
+- [docs/react/ajax-n-apis](https://blog2-backup.netlify.app/docs/react/ajax-n-apis)
+- [docs/react/cheatsheet](https://blog2-backup.netlify.app/docs/react/cheatsheet)
+- [docs/react/complete-react](https://blog2-backup.netlify.app/docs/react/complete-react)
+- [docs/react/createReactApp](https://blog2-backup.netlify.app/docs/react/createReactApp)
+- [docs/react/demo](https://blog2-backup.netlify.app/docs/react/demo)
+- [docs/react/dont-use-index-as-keys](https://blog2-backup.netlify.app/docs/react/dont-use-index-as-keys)
+- [docs/react/jsx](https://blog2-backup.netlify.app/docs/react/jsx)
+- [docs/react/quiz](https://blog2-backup.netlify.app/docs/react/quiz)
+- [docs/react/react-docs](https://blog2-backup.netlify.app/docs/react/react-docs)
+- [docs/react/react-in-depth](https://blog2-backup.netlify.app/docs/react/react-in-depth)
+- [docs/react/react-patterns-by-usecase](https://blog2-backup.netlify.app/docs/react/react-patterns-by-usecase)
+- [docs/react/react2](https://blog2-backup.netlify.app/docs/react/react2)
+- [docs/react/render-elements](https://blog2-backup.netlify.app/docs/react/render-elements)
 
-### [**✅⇒articles/web-standards-checklist/🌍**](https://blog2-backup.netlify.app/docs/articles/web-standards-checklist/)
+---
 
-### [**✅⇒articles/webdev-tools/🌍**](https://blog2-backup.netlify.app/docs/articles/webdev-tools/)
 
-### [**✅⇒articles/writing-files/🌍**](https://blog2-backup.netlify.app/docs/articles/writing-files/)
 
-***
+- [docs/reference](https://blog2-backup.netlify.app/docs/reference)
+- [docs/reference/art-of-command-line](https://blog2-backup.netlify.app/docs/reference/art-of-command-line)
+- [docs/reference/awesome-lists](https://blog2-backup.netlify.app/docs/reference/awesome-lists)
+- [docs/reference/awesome-nodejs](https://blog2-backup.netlify.app/docs/reference/awesome-nodejs)
+- [docs/reference/awesome-static](https://blog2-backup.netlify.app/docs/reference/awesome-static)
+- [docs/reference/bash-commands](https://blog2-backup.netlify.app/docs/reference/bash-commands)
+- [docs/reference/bookmarks](https://blog2-backup.netlify.app/docs/reference/bookmarks)
+- [docs/reference/embed-the-web](https://blog2-backup.netlify.app/docs/reference/embed-the-web)
+- [docs/reference/github-resources](https://blog2-backup.netlify.app/docs/reference/github-resources)
+- [docs/reference/github-search](https://blog2-backup.netlify.app/docs/reference/github-search)
+- [docs/reference/google-cloud](https://blog2-backup.netlify.app/docs/reference/google-cloud)
+- [docs/reference/how-2-reinstall-npm](https://blog2-backup.netlify.app/docs/reference/how-2-reinstall-npm)
+- [docs/reference/how-to-kill-a-process](https://blog2-backup.netlify.app/docs/reference/how-to-kill-a-process)
+- [docs/reference/installing-node](https://blog2-backup.netlify.app/docs/reference/installing-node)
+- [docs/reference/intro-to-nodejs](https://blog2-backup.netlify.app/docs/reference/intro-to-nodejs)
+- [docs/reference/markdown-styleguide](https://blog2-backup.netlify.app/docs/reference/markdown-styleguide)
+- [docs/reference/notes-template](https://blog2-backup.netlify.app/docs/reference/notes-template)
+- [docs/reference/psql](https://blog2-backup.netlify.app/docs/reference/psql)
+- [docs/reference/resources](https://blog2-backup.netlify.app/docs/reference/resources)
+- [docs/reference/vscode](https://blog2-backup.netlify.app/docs/reference/vscode)
+- [docs/reference/web-api's](https://blog2-backup.netlify.app/docs/reference/web-api's)
 
-### [**✅⇒audio/🌍**](https://blog2-backup.netlify.app/docs/audio/)
+---
 
-### [**✅⇒audio/dfft/🌍**](https://blog2-backup.netlify.app/docs/audio/dfft/)
 
-### [**✅⇒audio/discrete-fft/🌍**](https://blog2-backup.netlify.app/docs/audio/discrete-fft/)
 
-### [**✅⇒audio/dtw-python-explained/🌍**](https://blog2-backup.netlify.app/docs/audio/dtw-python-explained/)
+- [docs/sitemap](https://blog2-backup.netlify.app/docs/sitemap)
 
-### [**✅⇒audio/dynamic-time-warping/🌍**](https://blog2-backup.netlify.app/docs/audio/dynamic-time-warping/)
+---
 
-***
 
-### [**✅⇒community/🌍**](https://blog2-backup.netlify.app/docs/community/)
 
-### [**✅⇒community/video-chat/🌍**](https://blog2-backup.netlify.app/docs/community/video-chat/)
+- [docs/tips](https://blog2-backup.netlify.app/docs/tips)
+- [docs/tips/regex-tips](https://blog2-backup.netlify.app/docs/tips/regex-tips)
 
-***
+---
 
-### [**✅⇒content/🌍**](https://blog2-backup.netlify.app/docs/content/)
 
-### [**✅⇒content/algo/🌍**](https://blog2-backup.netlify.app/docs/content/algo/)
 
-### [**✅⇒content/archive/🌍**](https://blog2-backup.netlify.app/docs/content/archive/)
+- [docs/tools](https://blog2-backup.netlify.app/docs/tools)
+- [docs/tools/all-stripped](https://blog2-backup.netlify.app/docs/tools/all-stripped)
+- [docs/tools/all](https://blog2-backup.netlify.app/docs/tools/all)
+- [docs/tools/Archive](https://blog2-backup.netlify.app/docs/tools/Archive)
+- [docs/tools/archive](https://blog2-backup.netlify.app/docs/tools/archive)
+- [docs/tools/dev-utilities](https://blog2-backup.netlify.app/docs/tools/dev-utilities)
+- [docs/tools/markdown-html](https://blog2-backup.netlify.app/docs/tools/markdown-html)
 
-### [**✅⇒content/data-structures-algo/🌍**](https://blog2-backup.netlify.app/docs/content/data-structures-algo/)
+---
 
-### [**✅⇒content/gatsby-queries-mutations/🌍**](https://blog2-backup.netlify.app/docs/content/gatsby-queries-mutations/)
 
-### [**✅⇒content/history-api/🌍**](https://blog2-backup.netlify.app/docs/content/history-api/)
 
-### [**✅⇒content/js-async-n-callbacks/🌍**](https://blog2-backup.netlify.app/docs/content/js-async-n-callbacks/)
+- [docs/tutorials](https://blog2-backup.netlify.app/docs/tutorials)
+- [docs/tutorials/algolia-search](https://blog2-backup.netlify.app/docs/tutorials/algolia-search)
+- [docs/tutorials/bash-commands-my](https://blog2-backup.netlify.app/docs/tutorials/bash-commands-my)
+- [docs/tutorials/bash](https://blog2-backup.netlify.app/docs/tutorials/bash)
+- [docs/tutorials/get-file-extension](https://blog2-backup.netlify.app/docs/tutorials/get-file-extension)
+- [docs/tutorials/how-2-ubuntu](https://blog2-backup.netlify.app/docs/tutorials/how-2-ubuntu)
+- [docs/tutorials/psql-setup](https://blog2-backup.netlify.app/docs/tutorials/psql-setup)
+- [docs/tutorials/react-class-2-func](https://blog2-backup.netlify.app/docs/tutorials/react-class-2-func)
 
-### [**✅⇒content/projects/🌍**](https://blog2-backup.netlify.app/docs/content/projects/)
+---
 
-### [**✅⇒content/recent-projects/🌍**](https://blog2-backup.netlify.app/docs/content/recent-projects/)
 
-### [**✅⇒content/trouble-shooting/🌍**](https://blog2-backup.netlify.app/docs/content/trouble-shooting/)
 
-***
+- [interview-questions-js](https://blog2-backup.netlify.app/interview-questions-js)
+- [privacy-policy](https://blog2-backup.netlify.app/privacy-policy)
+- [readme](https://blog2-backup.netlify.app/readme)
+- [showcase](https://blog2-backup.netlify.app/showcase)
 
-### [**✅⇒docs/🌍**](https://blog2-backup.netlify.app/docs/docs/)
 
-### [**✅⇒docs/appendix/🌍**](https://blog2-backup.netlify.app/docs/docs/appendix/)
+</details>
 
-### [**✅⇒docs/await-keyword/🌍**](https://blog2-backup.netlify.app/docs/docs/await-keyword/)
 
-### [**✅⇒docs/bash/🌍**](https://blog2-backup.netlify.app/docs/docs/bash/)
 
-### [**✅⇒docs/content/🌍**](https://blog2-backup.netlify.app/docs/docs/content/)
+# [**➡️🏠🏠HOME🏠🏠⬅️**](https://blog2-backup.netlify.app/)
 
-### [**✅⇒docs/css/🌍**](https://blog2-backup.netlify.app/docs/docs/css/)
+<center>
 
-### [**✅⇒docs/data-structures-docs/🌍**](https://blog2-backup.netlify.app/docs/docs/data-structures-docs/)
+## [**<ins>➡️📚🏠docs🏠📚⬅️</ins>**](https://blog2-backup.netlify.app/docs)
 
-### [**✅⇒docs/git-repos/🌍**](https://blog2-backup.netlify.app/docs/docs/git-repos/)
+### [**readme</ins>**](https://blog2-backup.netlify.app/readme)
+### [**<ins>showcase</ins>**](https://blog2-backup.netlify.app/showcase)
+##### [**<ins>🔏admin</ins>**](https://blog2-backup.netlify.app/admin)
+##### [**<ins>🔏privacy-policy</ins>**](https://blog2-backup.netlify.app/privacy-policy)
 
-### [**✅⇒docs/no-whiteboarding/🌍**](https://blog2-backup.netlify.app/docs/docs/no-whiteboarding/)
+</center>
 
-### [**✅⇒docs/regex-in-js/🌍**](https://blog2-backup.netlify.app/docs/docs/regex-in-js/)
+<details>
 
-### [**✅⇒docs/sitemap/🌍**](https://blog2-backup.netlify.app/docs/docs/sitemap/)
+<summary><ins><h6><h6> 📰         📰 BLOG 📰         📰 </h6></h6></ins></summary>
 
-***
+### [**<ins>Blog Article List</ins>**](https://blog2-backup.netlify.app/blog)
 
-### [**✅⇒faq/🌍**](https://blog2-backup.netlify.app/docs/faq/)
+- [📰blog📰](https://blog2-backup.netlify.app/blog/web-scraping)
+    - [📰blog📰/300-react-questions⚛](https://blog2-backup.netlify.app/blog/300-react-questions)
+    - [📰blog📰/awesome-graphql፨](https://blog2-backup.netlify.app/blog/awesome-graphql)
+    - [📰blog📰/big-o-complexity](https://blog2-backup.netlify.app/blog/big-o-complexity)
+    - [📰blog📰/blog-archive](https://blog2-backup.netlify.app/blog/blog-archive)
+    - [📰blog📰/data-structures](https://blog2-backup.netlify.app/blog/data-structures)
+    - [📰blog📰/expressjs-apis](https://blog2-backup.netlify.app/blog/expressjs-apis)
+    - [📰blog📰/flow-control-in-python](https://blog2-backup.netlify.app/blog/flow-control-in-python)
+    - [📰blog📰/functions-in-python](https://blog2-backup.netlify.app/blog/functions-in-python)
+    - [📰blog📰/git-gateway](https://blog2-backup.netlify.app/blog/git-gateway)
+    - [📰blog📰/interview-questions-js](https://blog2-backup.netlify.app/blog/interview-questions-js)
+    - [📰blog📰/netlify-cms](https://blog2-backup.netlify.app/blog/netlify-cms)
+    - [📰blog📰/platform-docs](https://blog2-backup.netlify.app/blog/platform-docs)
+    - [📰blog📰/python-for-js-dev](https://blog2-backup.netlify.app/blog/python-for-js-dev)
+    - [📰blog📰/python-resources](https://blog2-backup.netlify.app/blog/python-resources)
+    - [📰blog📰/web-dev-trends](https://blog2-backup.netlify.app/blog/web-dev-trends)
+    - [📰blog📰/web-scraping](https://blog2-backup.netlify.app/blog/web-scraping)
 
-### [**✅⇒faq/contact/🌍**](https://blog2-backup.netlify.app/docs/faq/contact/)
+</details>
 
-### [**✅⇒faq/plug-ins/🌍**](https://blog2-backup.netlify.app/docs/faq/plug-ins/)
+---
 
-***
+<details>
 
-### [**✅⇒gallery/🌍**](https://blog2-backup.netlify.app/docs/gallery/)
+<summary><ins><h6>📚Docs📚 - ❓About</h6></ins></summary>
 
-### [**✅⇒interact/🌍**](https://blog2-backup.netlify.app/docs/interact/)
+- [📚docs📚/about](https://blog2-backup.netlify.app/docs/about)
+    - [📚docs📚/about/README](https://blog2-backup.netlify.app/docs/about/README)
+    - [📚docs📚/about/eng-portfolio](https://blog2-backup.netlify.app/docs/about/eng-portfolio)
+    - [📚docs📚/about/intrests](https://blog2-backup.netlify.app/docs/about/intrests)
+    - [📚docs📚/about/job-search](https://blog2-backup.netlify.app/docs/about/job-search)
+    - [📚docs📚/about/resume](https://blog2-backup.netlify.app/docs/about/resume)
 
-### [**✅⇒interact/callstack-visual/🌍**](https://blog2-backup.netlify.app/docs/interact/callstack-visual/)
+</details>
 
-### [**✅⇒interact/clock/🌍**](https://blog2-backup.netlify.app/docs/interact/clock/)
+---
 
-### [**✅⇒interact/jupyter-notebooks/🌍**](https://blog2-backup.netlify.app/docs/interact/jupyter-notebooks/)
+<details>
 
-### [**✅⇒interact/other-sites/🌍**](https://blog2-backup.netlify.app/docs/interact/other-sites/)
+<summary><ins><h6>📚Docs📚 - 🗞️Artices🗞️</h6></ins></summary>
 
-### [**✅⇒interact/video-chat/🌍**](https://blog2-backup.netlify.app/docs/interact/video-chat/)
+- [📚docs📚/🗞️articles🗞️](https://blog2-backup.netlify.app/docs/articles)
+    - [📚docs📚/🗞️articles🗞️basic-web-dev](https://blog2-backup.netlify.app/docs/articles/basic-web-dev)
+    - [📚docs📚/🗞️articles🗞️buffers](https://blog2-backup.netlify.app/docs/articles/buffers)
+    - [📚docs📚/🗞️articles🗞️common-modules](https://blog2-backup.netlify.app/docs/articles/common-modules)
+    - [📚docs📚/🗞️articles🗞️dev-dep](https://blog2-backup.netlify.app/docs/articles/dev-dep)
+    - [📚docs📚/🗞️articles🗞️event-loop](https://blog2-backup.netlify.app/docs/articles/event-loop)
+    - [📚docs📚/🗞️articles🗞️fs-module](https://blog2-backup.netlify.app/docs/articles/fs-module)
+    - [📚docs📚/🗞️articles🗞️how-search-engines-work](https://blog2-backup.netlify.app/docs/articles/how-search-engines-work)
+    - [📚docs📚/🗞️articles🗞️how-the-web-works](https://blog2-backup.netlify.app/docs/articles/how-the-web-works)
+    - [📚docs📚/🗞️articles🗞️intro](https://blog2-backup.netlify.app/docs/articles/intro)
+    - [📚docs📚/🗞️articles🗞️jamstack](https://blog2-backup.netlify.app/docs/articles/jamstack)
+    - [📚docs📚/🗞️articles🗞️nextjs](https://blog2-backup.netlify.app/docs/articles/nextjs)
+    - [📚docs📚/🗞️articles🗞️node-api-express](https://blog2-backup.netlify.app/docs/articles/node-api-express)
+    - [📚docs📚/🗞️articles🗞️nodejs](https://blog2-backup.netlify.app/docs/articles/nodejs)
+    - [📚docs📚/🗞️articles🗞️npm](https://blog2-backup.netlify.app/docs/articles/npm)
+    - [📚docs📚/🗞️articles🗞️os-module](https://blog2-backup.netlify.app/docs/articles/os-module)
+    - [📚docs📚/🗞️articles🗞️reading-files](https://blog2-backup.netlify.app/docs/articles/reading-files)
+    - [📚docs📚/🗞️articles🗞️semantic](https://blog2-backup.netlify.app/docs/articles/semantic)
+    - [📚docs📚/🗞️articles🗞️semantic-html](https://blog2-backup.netlify.app/docs/articles/semantic-html)
+    - [📚docs📚/🗞️articles🗞️url](https://blog2-backup.netlify.app/docs/articles/url)
+    - [📚docs📚/🗞️articles🗞️web-standards-checklist](https://blog2-backup.netlify.app/docs/articles/web-standards-checklist)
+    - [📚docs📚/🗞️articles🗞️webdev-tools](https://blog2-backup.netlify.app/docs/articles/webdev-tools)
+    - [📚docs📚/🗞️articles🗞️writing-files](https://blog2-backup.netlify.app/docs/articles/writing-files)
 
-***
+</details>
 
-### [**✅⇒javascript/🌍**](https://blog2-backup.netlify.app/docs/javascript/)
+---
 
-### [**✅⇒javascript/bigo/🌍**](https://blog2-backup.netlify.app/docs/javascript/bigo/)
+<details>
 
-### [**✅⇒javascript/constructor-functions/🌍**](https://blog2-backup.netlify.app/docs/javascript/constructor-functions/)
+<summary><ins><h6>📚Docs📚 - 🔊 Audio</h6></ins></summary>
 
-***
+- [📚Docs - Audio🔊](https://blog2-backup.netlify.app/docs/audio)
+    - [📚docs📚/audio/dfft](https://blog2-backup.netlify.app/docs/audio/dfft)
+    - [📚docs📚/audio/discrete-fft](https://blog2-backup.netlify.app/docs/audio/discrete-fft)
+    - [📚docs📚/audio/dtw-python-explained](https://blog2-backup.netlify.app/docs/audio/dtw-python-explained)
+    - [📚docs📚/audio/dynamic-time-warping](https://blog2-backup.netlify.app/docs/audio/dynamic-time-warping)
+    - [📚docs📚/audio/web-audio-api](https://blog2-backup.netlify.app/docs/audio/web-audio-api)
 
-### [**✅⇒medium/🌍**](https://blog2-backup.netlify.app/docs/medium/)
+</details>
 
-### [**✅⇒medium/medium-links/🌍**](https://blog2-backup.netlify.app/docs/medium/medium-links/)
+---
 
-### [**✅⇒medium/my-websites/🌍**](https://blog2-backup.netlify.app/docs/medium/my-websites/)
+<details>
 
-***
+<summary><ins><h6>📚Docs📚 -  Career </h6></ins></summary>
 
-### [**✅⇒python/🌍**](https://blog2-backup.netlify.app/docs/python/)
+- [📚docs📚/career](https://blog2-backup.netlify.app/docs/career)
+    - [📚docs📚/career/dev-interview](https://blog2-backup.netlify.app/docs/career/dev-interview)
+    - [📚docs📚/career/dos-and-donts](https://blog2-backup.netlify.app/docs/career/dos-and-donts)
+    - [📚docs📚/career/job-boards](https://blog2-backup.netlify.app/docs/career/job-boards)
+    - [📚docs📚/career/web-interview](https://blog2-backup.netlify.app/docs/career/web-interview)
+    - [📚docs📚/career/web-interview2](https://blog2-backup.netlify.app/docs/career/web-interview2)
+    - [📚docs📚/career/web-interview3](https://blog2-backup.netlify.app/docs/career/web-interview3)
+    - [📚docs📚/career/web-interview4](https://blog2-backup.netlify.app/docs/career/web-interview4)
+    - [📚docs📚/interview/job-search-nav](https://blog2-backup.netlify.app/docs/interview/job-search-nav)
+    - [📚docs📚/interview/previous-concepts](https://blog2-backup.netlify.app/docs/interview/previous-concepts)
+    - [📚docs📚/interview/review-concepts](https://blog2-backup.netlify.app/docs/interview/review-concepts)
 
-### [**✅⇒python/at-length/🌍**](https://blog2-backup.netlify.app/docs/python/at-length/)
+</details>
 
-### [**✅⇒python/google-sheets-api/🌍**](https://blog2-backup.netlify.app/docs/python/google-sheets-api/)
+---
 
-### [**✅⇒python/python-ds/🌍**](https://blog2-backup.netlify.app/docs/python/python-ds/)
+<details>
 
-### [**✅⇒python/snippets/🌍**](https://blog2-backup.netlify.app/docs/python/snippets/)
+<summary><ins><h6>📚Docs📚 -  👫👫Community👫👫 </h6></ins></summary>
 
-***
+- [📚docs📚/👫👫community👫👫](https://blog2-backup.netlify.app/docs/community)
+      - [📚docs📚/community/an-open-letter-2-future-developers](https://blog2-backup.netlify.app/docs/community/an-open-letter-2-future-developers)
+      - [📚docs📚/community/bookmarks](https://blog2-backup.netlify.app/docs/community/bookmarks)
+      - [📚docs📚/community/video-chat](https://blog2-backup.netlify.app/docs/community/video-chat)
 
-### [**✅⇒quick-reference/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/)
+</details>
 
-### [**✅⇒quick-reference/awesome-lists/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/awesome-lists/)
+---
 
-### [**✅⇒quick-reference/awesome-static/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/awesome-static/)
+<details>
 
-### [**✅⇒quick-reference/create-react-app/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/create-react-app/)
+<summary><ins><h6>📚Docs📚 - 💼Content💼</h6></ins></summary>
 
-### [**✅⇒quick-reference/emmet/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/emmet/)
+- [📚docs📚/💼content💼](https://blog2-backup.netlify.app/docs/content/)
+  - [📚docs📚/💼content💼/archive](https://blog2-backup.netlify.app/docs/content/archive)
+  - [📚docs📚/💼content💼/gatsby-Queries-Mutations](https://blog2-backup.netlify.app/docs/content/gatsby-Queries-Mutations)
+  - [📚docs📚/💼content💼/gists](https://blog2-backup.netlify.app/docs/content/gists)
+  - [📚docs📚/💼content💼/history-api](https://blog2-backup.netlify.app/docs/content/history-api)
+  - [📚docs📚/💼content💼/main-projects](https://blog2-backup.netlify.app/docs/content/main-projects)
+  - [📚docs📚/💼content💼/trouble-shooting](https://blog2-backup.netlify.app/docs/content/trouble-shooting)
 
-### [**✅⇒quick-reference/git-bash/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/git-bash/)
+</details>
 
-### [**✅⇒quick-reference/github-search/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/github-search/)
+---
 
-### [**✅⇒quick-reference/google-firebase/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/google-firebase/)
+<details>
 
-### [**✅⇒quick-reference/heroku-error-codes/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/heroku-error-codes/)
+<summary><ins><h6>📚Docs📚 - 📓Documentation📓</h6></ins></summary>
 
-### [**✅⇒quick-reference/installation/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/installation/)
+- [📚docs📚/docs](https://blog2-backup.netlify.app/docs/docs)
+    - [📚docs📚/docs/appendix](https://blog2-backup.netlify.app/docs/docs/appendix)
+    - [📚docs📚/docs/art-of-command-line](https://blog2-backup.netlify.app/docs/docs/art-of-command-line)
+    - [📚docs📚/docs/bash](https://blog2-backup.netlify.app/docs/docs/bash)
+    - [📚docs📚/docs/css](https://blog2-backup.netlify.app/docs/docs/css)
+    - [📚docs📚/docs/data-structures-docs](https://blog2-backup.netlify.app/docs/docs/data-structures-docs)
+    - [📚docs📚/docs/es-6-features](https://blog2-backup.netlify.app/docs/docs/es-6-features)
+    - [📚docs📚/docs/git-reference](https://blog2-backup.netlify.app/docs/docs/git-reference)
+    - [📚docs📚/docs/git-repos](https://blog2-backup.netlify.app/docs/docs/git-repos)
+    - [📚docs📚/docs/glossary](https://blog2-backup.netlify.app/docs/docs/glossary)
+    - [📚docs📚/docs/html-tags](https://blog2-backup.netlify.app/docs/docs/html-tags)
+    - [📚docs📚/docs/markdown](https://blog2-backup.netlify.app/docs/docs/markdown)
+    - [📚docs📚/docs/no-whiteboarding](https://blog2-backup.netlify.app/docs/docs/no-whiteboarding)
+    - [📚docs📚/docs/node-docs-complete](https://blog2-backup.netlify.app/docs/docs/node-docs-complete)
+    - [📚docs📚/docs/regex-in-js](https://blog2-backup.netlify.app/docs/docs/regex-in-js)
+    - [📚docs📚/docs/sitemap](https://blog2-backup.netlify.app/docs/docs/sitemap)
+    - [📚docs📚/docs/snippets](https://blog2-backup.netlify.app/docs/docs/snippets)
 
-### [**✅⇒quick-reference/minifiction/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/minifiction/)
+</details>
 
-### [**✅⇒quick-reference/new-repo-instructions/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/new-repo-instructions/)
+---
 
-### [**✅⇒quick-reference/notes-template/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/notes-template/)
+<details>
 
-### [**✅⇒quick-reference/psql-setup/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/psql-setup/)
+<summary>
+ <ins>📚Docs📚 - 🕸Data Structures & Algorithms🕸</h6></ins></summary>
 
-### [**✅⇒quick-reference/psql/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/psql/)
+- [📚docs📚/🕸ds-algo🕸](https://blog2-backup.netlify.app/docs/ds-algo)
+    - [📚docs📚/🕸ds-algo🕸/big-o](https://blog2-backup.netlify.app/docs/ds-algo/big-o)
+    - [📚docs📚/🕸ds-algo🕸/ds-algo-interview](https://blog2-backup.netlify.app/docs/ds-algo/ds-algo-interview)
+    - [📚docs📚/🕸ds-algo🕸/ds-overview](https://blog2-backup.netlify.app/docs/ds-algo/ds-overview)
 
-### [**✅⇒quick-reference/pull-request-rubric/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/pull-request-rubric/)
+</details>
 
-### [**✅⇒quick-reference/quick-links/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/quick-links/)
+---
 
-### [**✅⇒quick-reference/resources/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/resources/)
+<details>
 
-### [**✅⇒quick-reference/toprepos/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/toprepos/)
+<summary><ins><h6>📚Docs📚  - ❓FAQ❓</h6></ins></summary>
 
-### [**✅⇒quick-reference/understanding-path/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/understanding-path/)
+- [📚docs📚/faq](https://blog2-backup.netlify.app/docs/faq)
+    - [📚docs📚/❓faq❓/contact](https://blog2-backup.netlify.app/docs/faq/contact)
+    - [📚docs📚/❓faq❓/plug-ins](https://blog2-backup.netlify.app/docs/faq/plug-ins)
 
-### [**✅⇒quick-reference/vscode-themes/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/vscode-themes/)
+</details>
 
-### [**✅⇒quick-reference/vscode/🌍**](https://blog2-backup.netlify.app/docs/quick-reference/vscode/)
+---
 
-***
+<details>
 
-### [**✅⇒react/🌍**](https://blog2-backup.netlify.app/docs/react/)
+<summary><ins><h6>📚Docs📚 - 🧑‍🔬Interactive🧑‍🔬 </h6></ins></summary>
 
-### [**✅⇒react/createreactapp/🌍**](https://blog2-backup.netlify.app/docs/react/createreactapp/)
+- [📚docs📚/interact](https://blog2-backup.netlify.app/docs/interact)
+    - [📚docs📚/🧑‍🔬interact🧑‍🔬/callstack-visual](https://blog2-backup.netlify.app/docs/interact/callstack-visual)
+    - [📚docs📚/🧑‍🔬interact🧑‍🔬/clock](https://blog2-backup.netlify.app/docs/interact/clock)
+    - [📚docs📚/🧑‍🔬interact🧑‍🔬/jupyter-notebooks](https://blog2-backup.netlify.app/docs/interact/jupyter-notebooks)
+    - [📚docs📚/🧑‍🔬interact🧑‍🔬/other-sites](https://blog2-backup.netlify.app/docs/interact/other-sites)
+    - [📚docs📚/🧑‍🔬interact🧑‍🔬/video-chat](https://blog2-backup.netlify.app/docs/interact/video-chat)
 
-### [**✅⇒react/react-docs/🌍**](https://blog2-backup.netlify.app/docs/react/react-docs/)
+</details>
 
-### [**✅⇒react/react-in-depth/🌍**](https://blog2-backup.netlify.app/docs/react/react-in-depth/)
+---
 
-### [**✅⇒react/react2/🌍**](https://blog2-backup.netlify.app/docs/react/react2/)
+<details>
 
-***
+<summary><ins><h6>📚Docs📚 - Javascript</h6></ins></summary>
 
-### [**✅⇒sitemap/🌍**](https://blog2-backup.netlify.app/docs/sitemap/)
+- [📚docs📚/javascript](https://blog2-backup.netlify.app/docs/javascript)
+    - [📚docs📚/javascript/arrow-functions](https://blog2-backup.netlify.app/docs/javascript/arrow-functions)
+    - [📚docs📚/javascript/asyncjs](https://blog2-backup.netlify.app/docs/javascript/asyncjs)
+    - [📚docs📚/javascript/await-keyword](https://blog2-backup.netlify.app/docs/javascript/await-keyword)
+    - [📚docs📚/javascript/bigo](https://blog2-backup.netlify.app/docs/javascript/bigo)
+    - [📚docs📚/javascript/clean-code](https://blog2-backup.netlify.app/docs/javascript/clean-code)
+    - [📚docs📚/javascript/constructor-functions](https://blog2-backup.netlify.app/docs/javascript/constructor-functions)
+    - [📚docs📚/javascript/cs-basics-in-js](https://blog2-backup.netlify.app/docs/javascript/cs-basics-in-js)
+    - [📚docs📚/javascript/for-loops](https://blog2-backup.netlify.app/docs/javascript/for-loops)
+    - [📚docs📚/javascript/part2-pojo](https://blog2-backup.netlify.app/docs/javascript/part2-pojo)
+    - [📚docs📚/javascript/promises](https://blog2-backup.netlify.app/docs/javascript/promises)
+    - [📚docs📚/javascript/review](https://blog2-backup.netlify.app/docs/javascript/review)
+    - [📚docs📚/javascript/this-is-about-this](https://blog2-backup.netlify.app/docs/javascript/this-is-about-this)
 
-***
+</details>
 
-### [**✅⇒tools/🌍**](https://blog2-backup.netlify.app/docs/tools/)
+---
 
-### [**✅⇒tools/cloudstorage/🌍**](https://blog2-backup.netlify.app/docs/tools/cloudstorage/)
+<details>
 
-### [**✅⇒tools/data-structures/🌍**](https://blog2-backup.netlify.app/docs/tools/data-structures/)
+<summary><ins><h6>📚Docs📚 -  JS-Tips        </h6></ins></summary>
 
-### [**✅⇒tools/dev-utilities/🌍**](https://blog2-backup.netlify.app/docs/tools/dev-utilities/)
+- [📚docs📚/js-tips](https://blog2-backup.netlify.app/docs/js-tips)
+    - [📚docs📚/js-tips/abs](https://blog2-backup.netlify.app/docs/js-tips/abs)
+    - [📚docs📚/js-tips/acos](https://blog2-backup.netlify.app/docs/js-tips/acos)
+    - [📚docs📚/js-tips/acosh](https://blog2-backup.netlify.app/docs/js-tips/acosh)
+    - [📚docs📚/js-tips/addition](https://blog2-backup.netlify.app/docs/js-tips/addition)
+    - [📚docs📚/js-tips/all](https://blog2-backup.netlify.app/docs/js-tips/all)
+    - [📚docs📚/js-tips/allsettled](https://blog2-backup.netlify.app/docs/js-tips/allsettled)
+    - [📚docs📚/js-tips/any](https://blog2-backup.netlify.app/docs/js-tips/any)
+    - [📚docs📚/js-tips/array](https://blog2-backup.netlify.app/docs/js-tips/array)
+    - [📚docs📚/js-tips/array-methods](https://blog2-backup.netlify.app/docs/js-tips/array-methods)
+    - [📚docs📚/js-tips/arrow_functions](https://blog2-backup.netlify.app/docs/js-tips/arrow_functions)
+    - [📚docs📚/js-tips/async_function](https://blog2-backup.netlify.app/docs/js-tips/async_function)
+    - [📚docs📚/js-tips/bad_radix](https://blog2-backup.netlify.app/docs/js-tips/bad_radix)
+    - [📚docs📚/js-tips/bind](https://blog2-backup.netlify.app/docs/js-tips/bind)
+    - [📚docs📚/js-tips/classes](https://blog2-backup.netlify.app/docs/js-tips/classes)
+    - [📚docs📚/js-tips/concat](https://blog2-backup.netlify.app/docs/js-tips/concat)
+    - [📚docs📚/js-tips/conditional_operator](https://blog2-backup.netlify.app/docs/js-tips/conditional_operator)
+    - [📚docs📚/js-tips/const](https://blog2-backup.netlify.app/docs/js-tips/const)
+    - [📚docs📚/js-tips/create](https://blog2-backup.netlify.app/docs/js-tips/create)
+    - [📚docs📚/js-tips/date](https://blog2-backup.netlify.app/docs/js-tips/date)
+    - [📚docs📚/js-tips/eval](https://blog2-backup.netlify.app/docs/js-tips/eval)
+    - [📚docs📚/js-tips/every](https://blog2-backup.netlify.app/docs/js-tips/every)
+    - [📚docs📚/js-tips/filter](https://blog2-backup.netlify.app/docs/js-tips/filter)
+    - [📚docs📚/js-tips/for...of](https://blog2-backup.netlify.app/docs/js-tips/for...of)
+    - [📚docs📚/js-tips/foreach](https://blog2-backup.netlify.app/docs/js-tips/foreach)
+    - [📚docs📚/js-tips/functions](https://blog2-backup.netlify.app/docs/js-tips/functions)
+    - [📚docs📚/js-tips/import](https://blog2-backup.netlify.app/docs/js-tips/import)
+    - [📚docs📚/js-tips/insert-into-array](https://blog2-backup.netlify.app/docs/js-tips/insert-into-array)
+    - [📚docs📚/js-tips/map](https://blog2-backup.netlify.app/docs/js-tips/map)
+    - [📚docs📚/js-tips/object](https://blog2-backup.netlify.app/docs/js-tips/object)
+    - [📚docs📚/js-tips/reduce](https://blog2-backup.netlify.app/docs/js-tips/reduce)
+    - [📚docs📚/js-tips/regexp](https://blog2-backup.netlify.app/docs/js-tips/regexp)
+    - [📚docs📚/js-tips/sort](https://blog2-backup.netlify.app/docs/js-tips/sort)
+    - [📚docs📚/js-tips/sorting-strings](https://blog2-backup.netlify.app/docs/js-tips/sorting-strings)
+    - [📚docs📚/js-tips/string](https://blog2-backup.netlify.app/docs/js-tips/string)
+    - [📚docs📚/js-tips/this](https://blog2-backup.netlify.app/docs/js-tips/this)
+    - [📚docs📚/js-tips/var](https://blog2-backup.netlify.app/docs/js-tips/var)
 
-### [**✅⇒tools/markdown-html/🌍**](https://blog2-backup.netlify.app/docs/tools/markdown-html/)
+</details>
 
-### [**✅⇒tools/more-tools/🌍**](https://blog2-backup.netlify.app/docs/tools/more-tools/)
+---
 
-### [**✅review/🌍**](https://blog2-backup.netlify.app/review/)
+<details>
 
-### \[**✅showcase/🌍**]https://blog2-backup.netlify.app/showcase/)
+<summary><ins><h6>📚Docs📚 - Leetcode      </h6></ins></summary>
 
-# [**🌍⇒https://blog2-backup.netlify.app/🗺️**](https://blog2-backup.netlify.app/)
+- [📚docs📚/leetcode](https://blog2-backup.netlify.app/docs/leetcode)
+    - [📚docs📚/leetcode/ContaineWitMosWater](https://blog2-backup.netlify.app/docs/leetcode/ContaineWitMosWater)
+    - [📚docs📚/leetcode/DividTwIntegers](https://blog2-backup.netlify.app/docs/leetcode/DividTwIntegers)
+    - [📚docs📚/leetcode/GeneratParentheses](https://blog2-backup.netlify.app/docs/leetcode/GeneratParentheses)
+    - [📚docs📚/leetcode/LetteCombinationoPhonNumber](https://blog2-backup.netlify.app/docs/leetcode/LetteCombinationoPhonNumber)
+    - [📚docs📚/leetcode/LongesCommoPrefix](https://blog2-backup.netlify.app/docs/leetcode/LongesCommoPrefix)
+    - [📚docs📚/leetcode/MediaoTwSorteArrays](https://blog2-backup.netlify.app/docs/leetcode/MediaoTwSorteArrays)
+    - [📚docs📚/leetcode/NexPermutation](https://blog2-backup.netlify.app/docs/leetcode/NexPermutation)
+    - [📚docs📚/leetcode/PalindromNumber](https://blog2-backup.netlify.app/docs/leetcode/PalindromNumber)
+    - [📚docs📚/leetcode/RegulaExpressioMatching](https://blog2-backup.netlify.app/docs/leetcode/RegulaExpressioMatching)
+    - [📚docs📚/leetcode/RemovDuplicatefroSorteArray](https://blog2-backup.netlify.app/docs/leetcode/RemovDuplicatefroSorteArray)
+    - [📚docs📚/leetcode/RemovNtNodFroEnoList](https://blog2-backup.netlify.app/docs/leetcode/RemovNtNodFroEnoList)
+    - [📚docs📚/leetcode/RomatInteger](https://blog2-backup.netlify.app/docs/leetcode/RomatInteger)
+    - [📚docs📚/leetcode/SearciRotateSorteArray](https://blog2-backup.netlify.app/docs/leetcode/SearciRotateSorteArray)
+    - [📚docs📚/leetcode/StrintIntege(atoi)](<https://blog2-backup.netlify.app/docs/leetcode/StrintIntege(atoi)>)
+    - [📚docs📚/leetcode/ValiParentheses](https://blog2-backup.netlify.app/docs/leetcode/ValiParentheses)
+    - [📚docs📚/leetcode/ZigZaConversion](https://blog2-backup.netlify.app/docs/leetcode/ZigZaConversion)
 
-<br>
+</details>
 
-### [**🌍⇒blog🗺️**](https://blog2-backup.netlify.app/blog)
+---
+
+<details>
+
+<summary><ins><h6>📚Docs📚 -  🌊 Overflow     </h6></ins></summary>
+
+- [📚docs📚/overflow](https://blog2-backup.netlify.app/docs/overflow)
+  - [📚docs📚/overflow/html-spec](https://blog2-backup.netlify.app/docs/overflow/html-spec)
+  - [📚docs📚/overflow/http](https://blog2-backup.netlify.app/docs/overflow/http)
+  - [📚docs📚/overflow/install](https://blog2-backup.netlify.app/docs/overflow/install)
+  - [📚docs📚/overflow/modules](https://blog2-backup.netlify.app/docs/overflow/modules)
+  - [📚docs📚/overflow/node-cli-args](https://blog2-backup.netlify.app/docs/overflow/node-cli-args)
+  - [📚docs📚/overflow/node-js-language](https://blog2-backup.netlify.app/docs/overflow/node-js-language)
+  - [📚docs📚/overflow/node-package-manager](https://blog2-backup.netlify.app/docs/overflow/node-package-manager)
+  - [📚docs📚/overflow/node-repl](https://blog2-backup.netlify.app/docs/overflow/node-repl)
+  - [📚docs📚/overflow/node-run-cli](https://blog2-backup.netlify.app/docs/overflow/node-run-cli)
+  - [📚docs📚/overflow/nodevsbrowser](https://blog2-backup.netlify.app/docs/overflow/nodevsbrowser)
+  - [📚docs📚/overflow/understanding-firebase](https://blog2-backup.netlify.app/docs/overflow/understanding-firebase)
+  - [📚docs📚/overflow/v8](https://blog2-backup.netlify.app/docs/overflow/v8)
 
-<br>
+</details>
+
+---
+
+<details>
+
+<summary><ins><h6>📚Docs📚 - Projects  </h6></ins></summary>
+
+- [📚docs📚/projects](https://blog2-backup.netlify.app/docs/projects)
+    - [📚docs📚/projects/embeded-websites](https://blog2-backup.netlify.app/docs/projects/embeded-websites)
+    - [📚docs📚/projects/list-of-projects](https://blog2-backup.netlify.app/docs/projects/list-of-projects)
+    - [📚docs📚/projects/mini-projects](https://blog2-backup.netlify.app/docs/projects/mini-projects)
+    - [📚docs📚/projects/mini-projects2](https://blog2-backup.netlify.app/docs/projects/mini-projects2)
+    - [📚docs📚/projects/my-websites](https://blog2-backup.netlify.app/docs/projects/my-websites)
+
+</details>
+
+---
+
+<details>
+
+<summary><ins><h6>📚Docs📚  - 🐍Python🐍  </h6></ins></summary>
+
+- [📚docs📚/🐍python🐍](https://blog2-backup.netlify.app/docs/python)
+    - [📚docs📚/🐍python🐍/at-length](https://blog2-backup.netlify.app/docs/python/at-length)
+    - [📚docs📚/🐍python🐍/cheat-sheet](https://blog2-backup.netlify.app/docs/python/cheat-sheet)
+    - [📚docs📚/🐍python🐍/comprehensive-guide](https://blog2-backup.netlify.app/docs/python/comprehensive-guide)
+    - [📚docs📚/🐍python🐍/examples](https://blog2-backup.netlify.app/docs/python/examples)
+    - [📚docs📚/🐍python🐍/flow-control](https://blog2-backup.netlify.app/docs/python/flow-control)
+    - [📚docs📚/🐍python🐍/functions](https://blog2-backup.netlify.app/docs/python/functions)
+    - [📚docs📚/🐍python🐍/google-sheets-api](https://blog2-backup.netlify.app/docs/python/google-sheets-api)
+    - [📚docs📚/🐍python🐍/python-ds](https://blog2-backup.netlify.app/docs/python/python-ds)
+    - [📚docs📚/🐍python🐍/intro-for-js-devs](https://blog2-backup.netlify.app/docs/python/intro-for-js-devs)
+    - [📚docs📚/🐍python🐍/python-quiz](https://blog2-backup.netlify.app/docs/python/python-quiz)
+    - [📚docs📚/🐍python🐍/snippets](https://blog2-backup.netlify.app/docs/python/snippets)
 
-### [**🌍⇒docs🗺️**](https://blog2-backup.netlify.app/docs)
+</details>
 
-<br>
+---
 
-### [**🌍⇒readme🗺️**](https://blog2-backup.netlify.app/readme)
+<details>
 
-<br>
+<summary><ins><h6>📚Docs📚  - 📚🏃‍♂️Quick Reference📚🏃‍♂️   </h6></ins></summary>
 
-### [**🌍⇒review🗺️**](https://blog2-backup.netlify.app/review)
+- [📚docs📚/quick-ref](https://blog2-backup.netlify.app/docs/quick-ref)
+    - [📚docs📚/🏃‍♂️📚quick-ref📚🏃‍♂️/Emmet](https://blog2-backup.netlify.app/docs/quick-ref/Emmet)
+    - [📚docs📚/🏃‍♂️📚quick-ref📚🏃‍♂️/all-emojis](https://blog2-backup.netlify.app/docs/quick-ref/all-emojis)
+    - [📚docs📚/🏃‍♂️📚quick-ref📚🏃‍♂️/create-react-app](https://blog2-backup.netlify.app/docs/quick-ref/create-react-app)
+    - [📚docs📚/🏃‍♂️📚quick-ref📚🏃‍♂️/git-bash](https://blog2-backup.netlify.app/docs/quick-ref/git-bash)
+    - [📚docs📚/🏃‍♂️📚quick-ref📚🏃‍♂️/git-tricks](https://blog2-backup.netlify.app/docs/quick-ref/git-tricks)
+    - [📚docs📚/🏃‍♂️📚quick-ref📚🏃‍♂️/google-firebase](https://blog2-backup.netlify.app/docs/quick-ref/google-firebase)
+    - [📚docs📚/🏃‍♂️📚quick-ref📚🏃‍♂️/heroku-error-codes](https://blog2-backup.netlify.app/docs/quick-ref/heroku-error-codes)
+    - [📚docs📚/🏃‍♂️📚quick-ref📚🏃‍♂️/installation](https://blog2-backup.netlify.app/docs/quick-ref/installation)
+    - [📚docs📚/🏃‍♂️📚quick-ref📚🏃‍♂️/markdown-dropdowns](https://blog2-backup.netlify.app/docs/quick-ref/markdown-dropdowns)
+    - [📚docs📚/🏃‍♂️📚quick-ref📚🏃‍♂️/minifiction](https://blog2-backup.netlify.app/docs/quick-ref/minifiction)
+    - [📚docs📚/🏃‍♂️📚quick-ref📚🏃‍♂️/new-repo-instructions](https://blog2-backup.netlify.app/docs/quick-ref/new-repo-instructions)
+    - [📚docs📚/🏃‍♂️📚quick-ref📚🏃‍♂️/psql-setup](https://blog2-backup.netlify.app/docs/quick-ref/psql-setup)
+    - [📚docs📚/🏃‍♂️📚quick-ref📚🏃‍♂️/pull-request-rubric](https://blog2-backup.netlify.app/docs/quick-ref/pull-request-rubric)
+    - [📚docs📚/🏃‍♂️📚quick-ref📚🏃‍♂️/quick-links](https://blog2-backup.netlify.app/docs/quick-ref/quick-links)
+    - [📚docs📚/🏃‍♂️📚quick-ref📚🏃‍♂️/topRepos](https://blog2-backup.netlify.app/docs/quick-ref/topRepos)
+    - [📚docs📚/🏃‍♂️📚quick-ref📚🏃‍♂️/understanding-path](https://blog2-backup.netlify.app/docs/quick-ref/understanding-path)
+    - [📚docs📚/🏃‍♂️📚quick-ref📚🏃‍♂️/vscode-themes](https://blog2-backup.netlify.app/docs/quick-ref/vscode-themes)
+    - [📚docs📚/⚛️react⚛️/accessibility](https://blog2-backup.netlify.app/docs/react/accessibility)
 
-<br>
+</details>
 
-### [**🌍⇒showcase🗺️**](https://blog2-backup.netlify.app/showcase)
+---
 
-<br>
+<details>
 
-### [**🌍⇒blog/awesome-graphql🗺️**](https://blog2-backup.netlify.app/blog/awesome-graphql)
+<summary><ins><h6>📚Docs📚  - ⚛️React⚛️ </h6></ins></summary>
 
-<br>
+- [📚docs📚/⚛️react⚛️](https://blog2-backup.netlify.app/docs/react)
+    - [📚docs📚/⚛️react⚛️/ajax-n-apis](https://blog2-backup.netlify.app/docs/react/ajax-n-apis)
+    - [📚docs📚/⚛️react⚛️/cheatsheet](https://blog2-backup.netlify.app/docs/react/cheatsheet)
+    - [📚docs📚/⚛️react⚛️/createReactApp](https://blog2-backup.netlify.app/docs/react/createReactApp)
+    - [📚docs📚/⚛️react⚛️/demo](https://blog2-backup.netlify.app/docs/react/demo)
+    - [📚docs📚/⚛️react⚛️/dont-use-index-as-keys](https://blog2-backup.netlify.app/docs/react/dont-use-index-as-keys)
+    - [📚docs📚/⚛️react⚛️/jsx](https://blog2-backup.netlify.app/docs/react/jsx)
+    - [📚docs📚/⚛️react⚛️/quiz](https://blog2-backup.netlify.app/docs/react/quiz)
+    - [📚docs📚/⚛️react⚛️/react-docs](https://blog2-backup.netlify.app/docs/react/react-docs)
+    - [📚docs📚/⚛️react⚛️/react-in-depth](https://blog2-backup.netlify.app/docs/react/react-in-depth)
+    - [📚docs📚/⚛️react⚛️/react-patterns-by-usecase](https://blog2-backup.netlify.app/docs/react/react-patterns-by-usecase)
+    - [📚docs📚/⚛️react⚛️/react2](https://blog2-backup.netlify.app/docs/react/react2)
+    - [📚docs📚/⚛️react⚛️/render-elements](https://blog2-backup.netlify.app/docs/react/render-elements)
 
-### [**🌍⇒blog/big-o-complexity🗺️**](https://blog2-backup.netlify.app/blog/big-o-complexity)
+</details>
 
-<br>
+---
 
-### [**🌍⇒blog/blog-archive🗺️**](https://blog2-backup.netlify.app/blog/blog-archive)
+<details>
 
-<br>
+<summary><ins><h6>📚Docs📚  -  ※🕮Reference Materials🕮※</h6></ins></summary>
 
-### [**🌍⇒blog/blogwcomments🗺️**](https://blog2-backup.netlify.app/blog/blogwcomments)
+- [📚docs📚/※reference※](https://blog2-backup.netlify.app/docs/reference)
+    - [📚docs📚/※🕮reference※🕮/awesome-lists](https://blog2-backup.netlify.app/docs/reference/awesome-lists)
+    - [📚docs📚/※🕮reference※🕮/awesome-nodejs](https://blog2-backup.netlify.app/docs/reference/awesome-nodejs)
+    - [📚docs📚/※🕮reference※🕮/awesome-static](https://blog2-backup.netlify.app/docs/reference/awesome-static)
+    - [📚docs📚/※🕮reference※🕮/bash-commands](https://blog2-backup.netlify.app/docs/reference/bash-commands)
+    - [📚docs📚/※🕮reference※🕮/bookmarks](https://blog2-backup.netlify.app/docs/reference/bookmarks)
+    - [📚docs📚/※🕮reference※🕮/embed-the-web](https://blog2-backup.netlify.app/docs/reference/embed-the-web)
+    - [📚docs📚/※🕮reference※🕮/github-resources](https://blog2-backup.netlify.app/docs/reference/github-resources)
+    - [📚docs📚/※🕮reference※🕮/github-search](https://blog2-backup.netlify.app/docs/reference/github-search)
+    - [📚docs📚/※🕮reference※🕮/google-cloud](https://blog2-backup.netlify.app/docs/reference/google-cloud)
+    - [📚docs📚/※🕮reference※🕮/how-2-reinstall-npm](https://blog2-backup.netlify.app/docs/reference/how-2-reinstall-npm)
+    - [📚docs📚/※🕮reference※🕮/how-to-kill-a-process](https://blog2-backup.netlify.app/docs/reference/how-to-kill-a-process)
+    - [📚docs📚/※🕮reference※🕮/installing-node](https://blog2-backup.netlify.app/docs/reference/installing-node)
+    - [📚docs📚/※🕮reference※🕮/intro-to-nodejs](https://blog2-backup.netlify.app/docs/reference/intro-to-nodejs)
+    - [📚docs📚/※🕮reference※🕮/markdown-styleguide](https://blog2-backup.netlify.app/docs/reference/markdown-styleguide)
+    - [📚docs📚/※🕮reference※🕮/notes-template](https://blog2-backup.netlify.app/docs/reference/notes-template)
+    - [📚docs📚/※🕮reference※🕮/psql](https://blog2-backup.netlify.app/docs/reference/psql)
+    - [📚docs📚/※🕮reference※🕮/resources](https://blog2-backup.netlify.app/docs/reference/resources)
+    - [📚docs📚/※🕮reference※🕮/vscode](https://blog2-backup.netlify.app/docs/reference/vscode)
+    - [📚docs📚/※🕮reference※🕮/web-api's](https://blog2-backup.netlify.app/docs/reference/web-api's)
 
-<br>
+</details>
 
-### [**🌍⇒blog/data-structures🗺️**](https://blog2-backup.netlify.app/blog/data-structures)
+</details>
 
-<br>
+---
 
-### [**🌍⇒blog/flow-control-in-python🗺️**](https://blog2-backup.netlify.app/blog/flow-control-in-python)
+<details>
 
-<br>
+<summary><ins><h6>📚Docs📚 - 🔊 Mini Web Dev Tips </h6></ins></summary>
 
-### [**🌍⇒blog/functions-in-python🗺️**](https://blog2-backup.netlify.app/blog/functions-in-python)
+- [📚docs📚/tips](https://blog2-backup.netlify.app/docs/tips)
+    - [📚docs📚/tips/regex-tips](https://blog2-backup.netlify.app/docs/tips/regex-tips)
 
-<br>
+</details>
 
-### [**🌍⇒blog/git-gateway🗺️**](https://blog2-backup.netlify.app/blog/git-gateway)
+---
 
-<br>
+<details>
 
-### [**🌍⇒blog/interview-questions-js🗺️**](https://blog2-backup.netlify.app/blog/interview-questions-js)
+<summary><ins><h6>📚Docs📚 - ⚒Tools⚒ </h6></ins></summary>
 
-<br>
+- [📚docs📚/⚒Tools⚒/](https://blog2-backup.netlify.app/docs/tools)
+    - [📚docs📚/⚒Tools⚒/all](https://blog2-backup.netlify.app/docs/tools/all)
+    - [📚docs📚/⚒Tools⚒/all-stripped](https://blog2-backup.netlify.app/docs/tools/all-stripped)
+    - [📚docs📚/⚒Tools⚒/archive](https://blog2-backup.netlify.app/docs/tools/archive)
+    - [📚docs📚/⚒Tools⚒/dev-utilities](https://blog2-backup.netlify.app/docs/tools/dev-utilities) 
+    - [📚docs📚/⚒Tools⚒/📚markdown-html](https://blog2-backup.netlify.app/docs/tools/markdown-html)
 
-### [**🌍⇒blog/media-queries-explained🗺️**](https://blog2-backup.netlify.app/blog/media-queries-explained)
+</details>
 
-<br>
+---
 
-### [**🌍⇒blog/my-medium🗺️**](https://blog2-backup.netlify.app/blog/my-medium)
+<details>
 
-<br>
+<summary><ins><h6>📚Docs📚  - 📑Tutorials📑</h6></ins></summary>
 
-### [**🌍⇒blog/netlify-cms🗺️**](https://blog2-backup.netlify.app/blog/netlify-cms)
+- [📚docs📚/tutorials](https://blog2-backup.netlify.app/docs/tutorials)
+    - [📚docs📚/📑tutorials📑/enviorment-setup](https://blog2-backup.netlify.app/docs/tutorials/enviorment-setup)
+    - [📚docs📚/📑tutorials📑/get-file-extension](https://blog2-backup.netlify.app/docs/tutorials/get-file-extension)
+    - [📚docs📚/📑tutorials📑/get-file-name](https://blog2-backup.netlify.app/docs/tutorials/get-file-name)
 
-<br>
+    
 
-### [**🌍⇒blog/platform-docs🗺️**](https://blog2-backup.netlify.app/blog/platform-docs)
-
-<br>
-
-### [**🌍⇒blog/python-for-js-dev🗺️**](https://blog2-backup.netlify.app/blog/python-for-js-dev)
-
-<br>
-
-### [**🌍⇒blog/python-resources🗺️**](https://blog2-backup.netlify.app/blog/python-resources)
-
-<br>
-
-### [**🌍⇒blog/web-dev-trends🗺️**](https://blog2-backup.netlify.app/blog/web-dev-trends)
-
-<br>
-
-### [**🌍⇒blog/web-scraping🗺️**](https://blog2-backup.netlify.app/blog/web-scraping)
-
-<br>
-
-### [**🌍⇒docs/about🗺️**](https://blog2-backup.netlify.app/docs/about)
-
-<br>
-
-### [**🌍⇒docs/articles🗺️**](https://blog2-backup.netlify.app/docs/articles)
-
-<br>
-
-### [**🌍⇒docs/audio🗺️**](https://blog2-backup.netlify.app/docs/audio)
-
-<br>
-
-### [**🌍⇒docs/career🗺️**](https://blog2-backup.netlify.app/docs/career)
-
-<br>
-
-### [**🌍⇒docs/community🗺️**](https://blog2-backup.netlify.app/docs/community)
-
-<br>
-
-### [**🌍⇒docs/content🗺️**](https://blog2-backup.netlify.app/docs/content)
-
-<br>
-
-### [**🌍⇒docs/docs🗺️**](https://blog2-backup.netlify.app/docs/docs)
-
-<br>
-
-### [**🌍⇒docs/faq🗺️**](https://blog2-backup.netlify.app/docs/faq)
-
-<br>
-
-### [**🌍⇒docs/gallery🗺️**](https://blog2-backup.netlify.app/docs/gallery)
-
-<br>
-
-### [**🌍⇒docs/interact🗺️**](https://blog2-backup.netlify.app/docs/interact)
-
-<br>
-
-### [**🌍⇒docs/javascript🗺️**](https://blog2-backup.netlify.app/docs/javascript)
-
-<br>
-
-### [**🌍⇒docs/leetcode🗺️**](https://blog2-backup.netlify.app/docs/leetcode)
-
-<br>
-
-### [**🌍⇒docs/other-content🗺️**](https://blog2-backup.netlify.app/docs/other-content)
-
-<br>
-
-### [**🌍⇒docs/privacy-policy🗺️**](https://blog2-backup.netlify.app/docs/privacy-policy)
-
-<br>
-
-### [**🌍⇒docs/projects🗺️**](https://blog2-backup.netlify.app/docs/projects)
-
-<br>
-
-### [**🌍⇒docs/python🗺️**](https://blog2-backup.netlify.app/docs/python)
-
-<br>
-
-### [**🌍⇒docs/quick-reference🗺️**](https://blog2-backup.netlify.app/docs/quick-reference)
-
-<br>
-
-### [**🌍⇒docs/react🗺️**](https://blog2-backup.netlify.app/docs/react)
-
-<br>
-
-### [**🌍⇒docs/reference🗺️**](https://blog2-backup.netlify.app/docs/reference)
-
-<br>
-
-### [**🌍⇒docs/search🗺️**](https://blog2-backup.netlify.app/docs/search)
-
-<br>
-
-### [**🌍⇒docs/sitemap🗺️**](https://blog2-backup.netlify.app/docs/sitemap)
-
-<br>
-
-### [**🌍⇒docs/tools🗺️**](https://blog2-backup.netlify.app/docs/tools)
-
-<br>
-
-### [**🌍⇒docs/tutorials🗺️**](https://blog2-backup.netlify.app/docs/tutorials)
-
-<br>
-
-### [**🌍⇒docs/about/eng-portfolio🗺️**](https://blog2-backup.netlify.app/docs/about/eng-portfolio)
-
-<br>
-
-### [**🌍⇒docs/about/ideas-for-this-website🗺️**](https://blog2-backup.netlify.app/docs/about/ideas-for-this-website)
-
-<br>
-
-### [**🌍⇒docs/about/intrests🗺️**](https://blog2-backup.netlify.app/docs/about/intrests)
-
-<br>
-
-### [**🌍⇒docs/about/job-search🗺️**](https://blog2-backup.netlify.app/docs/about/job-search)
-
-<br>
-
-### [**🌍⇒docs/about/resume🗺️**](https://blog2-backup.netlify.app/docs/about/resume)
-
-<br>
-
-### [**🌍⇒docs/articles/basic-web-dev🗺️**](https://blog2-backup.netlify.app/docs/articles/basic-web-dev)
-
-<br>
-
-### [**🌍⇒docs/articles/buffers🗺️**](https://blog2-backup.netlify.app/docs/articles/buffers)
-
-<br>
-
-### [**🌍⇒docs/articles/dev-dep🗺️**](https://blog2-backup.netlify.app/docs/articles/dev-dep)
-
-<br>
-
-### [**🌍⇒docs/articles/event-loop🗺️**](https://blog2-backup.netlify.app/docs/articles/event-loop)
-
-<br>
-
-### [**🌍⇒docs/articles/fs-module🗺️**](https://blog2-backup.netlify.app/docs/articles/fs-module)
-
-<br>
-
-### [**🌍⇒docs/articles/how-the-web-works🗺️**](https://blog2-backup.netlify.app/docs/articles/how-the-web-works)
-
-<br>
-
-### [**🌍⇒docs/articles/http🗺️**](https://blog2-backup.netlify.app/docs/articles/http)
-
-<br>
-
-### [**🌍⇒docs/articles/install🗺️**](https://blog2-backup.netlify.app/docs/articles/install)
-
-<br>
-
-### [**🌍⇒docs/articles/intro🗺️**](https://blog2-backup.netlify.app/docs/articles/intro)
-
-<br>
-
-### [**🌍⇒docs/articles/media-queries-no-more🗺️**](https://blog2-backup.netlify.app/docs/articles/media-queries-no-more)
-
-<br>
-
-### [**🌍⇒docs/articles/module-exports🗺️**](https://blog2-backup.netlify.app/docs/articles/module-exports)
-
-<br>
-
-### [**🌍⇒docs/articles/nextjs🗺️**](https://blog2-backup.netlify.app/docs/articles/nextjs)
-
-<br>
-
-### [**🌍⇒docs/articles/node-api-express🗺️**](https://blog2-backup.netlify.app/docs/articles/node-api-express)
-
-<br>
-
-### [**🌍⇒docs/articles/node-cli-args🗺️**](https://blog2-backup.netlify.app/docs/articles/node-cli-args)
-
-<br>
-
-### [**🌍⇒docs/articles/node-common-modules🗺️**](https://blog2-backup.netlify.app/docs/articles/node-common-modules)
-
-<br>
-
-### [**🌍⇒docs/articles/node-env-variables🗺️**](https://blog2-backup.netlify.app/docs/articles/node-env-variables)
-
-<br>
-
-### [**🌍⇒docs/articles/node-js-language🗺️**](https://blog2-backup.netlify.app/docs/articles/node-js-language)
-
-<br>
-
-### [**🌍⇒docs/articles/node-package-manager🗺️**](https://blog2-backup.netlify.app/docs/articles/node-package-manager)
-
-<br>
-
-### [**🌍⇒docs/articles/node-repl🗺️**](https://blog2-backup.netlify.app/docs/articles/node-repl)
-
-<br>
-
-### [**🌍⇒docs/articles/node-run-cli🗺️**](https://blog2-backup.netlify.app/docs/articles/node-run-cli)
-
-<br>
-
-### [**🌍⇒docs/articles/nodejs🗺️**](https://blog2-backup.netlify.app/docs/articles/nodejs)
-
-<br>
-
-### [**🌍⇒docs/articles/nodevsbrowser🗺️**](https://blog2-backup.netlify.app/docs/articles/nodevsbrowser)
-
-<br>
-
-### [**🌍⇒docs/articles/npm🗺️**](https://blog2-backup.netlify.app/docs/articles/npm)
-
-<br>
-
-### [**🌍⇒docs/articles/npx🗺️**](https://blog2-backup.netlify.app/docs/articles/npx)
-
-<br>
-
-### [**🌍⇒docs/articles/os-module🗺️**](https://blog2-backup.netlify.app/docs/articles/os-module)
-
-<br>
-
-### [**🌍⇒docs/articles/package-lock🗺️**](https://blog2-backup.netlify.app/docs/articles/package-lock)
-
-<br>
-
-### [**🌍⇒docs/articles/reading-files🗺️**](https://blog2-backup.netlify.app/docs/articles/reading-files)
-
-<br>
-
-### [**🌍⇒docs/articles/semantic🗺️**](https://blog2-backup.netlify.app/docs/articles/semantic)
-
-<br>
-
-### [**🌍⇒docs/articles/semantic-html🗺️**](https://blog2-backup.netlify.app/docs/articles/semantic-html)
-
-<br>
-
-### [**🌍⇒docs/articles/the-uniform-resource-locator-(url)🗺️**](https://blog2-backup.netlify.app/docs/articles/the-uniform-resource-locator-\(url\))
-
-<br>
-
-### [**🌍⇒docs/articles/understanding-firebase🗺️**](https://blog2-backup.netlify.app/docs/articles/understanding-firebase)
-
-<br>
-
-### [**🌍⇒docs/articles/v8🗺️**](https://blog2-backup.netlify.app/docs/articles/v8)
-
-<br>
-
-### [**🌍⇒docs/articles/web-standards-checklist🗺️**](https://blog2-backup.netlify.app/docs/articles/web-standards-checklist)
-
-<br>
-
-### [**🌍⇒docs/articles/webdev-tools🗺️**](https://blog2-backup.netlify.app/docs/articles/webdev-tools)
-
-<br>
-
-### [**🌍⇒docs/articles/write-2-json-with-python🗺️**](https://blog2-backup.netlify.app/docs/articles/write-2-json-with-python)
-
-<br>
-
-### [**🌍⇒docs/articles/writing-files🗺️**](https://blog2-backup.netlify.app/docs/articles/writing-files)
-
-<br>
-
-### [**🌍⇒docs/audio/audio🗺️**](https://blog2-backup.netlify.app/docs/audio/audio)
-
-<br>
-
-### [**🌍⇒docs/audio/audio-feature-extraction🗺️**](https://blog2-backup.netlify.app/docs/audio/audio-feature-extraction)
-
-<br>
-
-### [**🌍⇒docs/audio/dfft🗺️**](https://blog2-backup.netlify.app/docs/audio/dfft)
-
-<br>
-
-### [**🌍⇒docs/audio/discrete-fft🗺️**](https://blog2-backup.netlify.app/docs/audio/discrete-fft)
-
-<br>
-
-### [**🌍⇒docs/audio/dtw-python-explained🗺️**](https://blog2-backup.netlify.app/docs/audio/dtw-python-explained)
-
-<br>
-
-### [**🌍⇒docs/audio/dynamic-time-warping🗺️**](https://blog2-backup.netlify.app/docs/audio/dynamic-time-warping)
-
-<br>
-
-### [**🌍⇒docs/audio/web-audio-api🗺️**](https://blog2-backup.netlify.app/docs/audio/web-audio-api)
-
-<br>
-
-### [**🌍⇒docs/career/confidence🗺️**](https://blog2-backup.netlify.app/docs/career/confidence)
-
-<br>
-
-### [**🌍⇒docs/career/dev-interview🗺️**](https://blog2-backup.netlify.app/docs/career/dev-interview)
-
-<br>
-
-### [**🌍⇒docs/career/interview-dos-n-donts🗺️**](https://blog2-backup.netlify.app/docs/career/interview-dos-n-donts)
-
-<br>
-
-### [**🌍⇒docs/career/job-boards🗺️**](https://blog2-backup.netlify.app/docs/career/job-boards)
-
-<br>
-
-### [**🌍⇒docs/community/an-open-letter-2-future-developers🗺️**](https://blog2-backup.netlify.app/docs/community/an-open-letter-2-future-developers)
-
-<br>
-
-### [**🌍⇒docs/community/video-chat🗺️**](https://blog2-backup.netlify.app/docs/community/video-chat)
-
-<br>
-
-### [**🌍⇒docs/content/algo🗺️**](https://blog2-backup.netlify.app/docs/content/algo)
-
-<br>
-
-### [**🌍⇒docs/content/archive🗺️**](https://blog2-backup.netlify.app/docs/content/archive)
-
-<br>
-
-### [**🌍⇒docs/content/data-structures-algo🗺️**](https://blog2-backup.netlify.app/docs/content/data-structures-algo)
-
-<br>
-
-### [**🌍⇒docs/content/gatsby-Queries-Mutations🗺️**](https://blog2-backup.netlify.app/docs/content/gatsby-Queries-Mutations)
-
-<br>
-
-### [**🌍⇒docs/content/history-api🗺️**](https://blog2-backup.netlify.app/docs/content/history-api)
-
-<br>
-
-### [**🌍⇒docs/content/projects🗺️**](https://blog2-backup.netlify.app/docs/content/projects)
-
-<br>
-
-### [**🌍⇒docs/content/recent-projects🗺️**](https://blog2-backup.netlify.app/docs/content/recent-projects)
-
-<br>
-
-### [**🌍⇒docs/content/trouble-shooting🗺️**](https://blog2-backup.netlify.app/docs/content/trouble-shooting)
-
-<br>
-
-### [**🌍⇒docs/docs/appendix🗺️**](https://blog2-backup.netlify.app/docs/docs/appendix)
-
-<br>
-
-### [**🌍⇒docs/docs/bash🗺️**](https://blog2-backup.netlify.app/docs/docs/bash)
-
-<br>
-
-### [**🌍⇒docs/docs/content🗺️**](https://blog2-backup.netlify.app/docs/docs/content)
-
-<br>
-
-### [**🌍⇒docs/docs/css🗺️**](https://blog2-backup.netlify.app/docs/docs/css)
-
-<br>
-
-### [**🌍⇒docs/docs/data-structures-docs🗺️**](https://blog2-backup.netlify.app/docs/docs/data-structures-docs)
-
-<br>
-
-### [**🌍⇒docs/docs/git-reference🗺️**](https://blog2-backup.netlify.app/docs/docs/git-reference)
-
-<br>
-
-### [**🌍⇒docs/docs/git-repos🗺️**](https://blog2-backup.netlify.app/docs/docs/git-repos)
-
-<br>
-
-### [**🌍⇒docs/docs/html-spec🗺️**](https://blog2-backup.netlify.app/docs/docs/html-spec)
-
-<br>
-
-### [**🌍⇒docs/docs/markdown🗺️**](https://blog2-backup.netlify.app/docs/docs/markdown)
-
-<br>
-
-### [**🌍⇒docs/docs/no-whiteboarding🗺️**](https://blog2-backup.netlify.app/docs/docs/no-whiteboarding)
-
-<br>
-
-### [**🌍⇒docs/docs/node-docs-complete🗺️**](https://blog2-backup.netlify.app/docs/docs/node-docs-complete)
-
-<br>
-
-### [**🌍⇒docs/docs/node-docs-full🗺️**](https://blog2-backup.netlify.app/docs/docs/node-docs-full)
-
-<br>
-
-### [**🌍⇒docs/docs/regex-in-js🗺️**](https://blog2-backup.netlify.app/docs/docs/regex-in-js)
-
-<br>
-
-### [**🌍⇒docs/docs/sitemap🗺️**](https://blog2-backup.netlify.app/docs/docs/sitemap)
-
-<br>
-
-### [**🌍⇒docs/faq/contact🗺️**](https://blog2-backup.netlify.app/docs/faq/contact)
-
-<br>
-
-### [**🌍⇒docs/faq/plug-ins🗺️**](https://blog2-backup.netlify.app/docs/faq/plug-ins)
-
-<br>
-
-### [**🌍⇒docs/interact/callstack-visual🗺️**](https://blog2-backup.netlify.app/docs/interact/callstack-visual)
-
-<br>
-
-### [**🌍⇒docs/interact/clock🗺️**](https://blog2-backup.netlify.app/docs/interact/clock)
-
-<br>
-
-### [**🌍⇒docs/interact/jupyter-notebooks🗺️**](https://blog2-backup.netlify.app/docs/interact/jupyter-notebooks)
-
-<br>
-
-### [**🌍⇒docs/interact/other-sites🗺️**](https://blog2-backup.netlify.app/docs/interact/other-sites)
-
-<br>
-
-### [**🌍⇒docs/interact/video-chat🗺️**](https://blog2-backup.netlify.app/docs/interact/video-chat)
-
-<br>
-
-### [**🌍⇒docs/javascript/arrow-functions🗺️**](https://blog2-backup.netlify.app/docs/javascript/arrow-functions)
-
-<br>
-
-### [**🌍⇒docs/javascript/await-keyword🗺️**](https://blog2-backup.netlify.app/docs/javascript/await-keyword)
-
-<br>
-
-### [**🌍⇒docs/javascript/bigo🗺️**](https://blog2-backup.netlify.app/docs/javascript/bigo)
-
-<br>
-
-### [**🌍⇒docs/javascript/clean-code🗺️**](https://blog2-backup.netlify.app/docs/javascript/clean-code)
-
-<br>
-
-### [**🌍⇒docs/javascript/constructor-functions🗺️**](https://blog2-backup.netlify.app/docs/javascript/constructor-functions)
-
-<br>
-
-### [**🌍⇒docs/javascript/promises🗺️**](https://blog2-backup.netlify.app/docs/javascript/promises)
-
-<br>
-
-### [**🌍⇒docs/javascript/review🗺️**](https://blog2-backup.netlify.app/docs/javascript/review)
-
-<br>
-
-### [**🌍⇒docs/javascript/this-is-about-this🗺️**](https://blog2-backup.netlify.app/docs/javascript/this-is-about-this)
-
-<br>
-
-### [**🌍⇒docs/projects/medium-links🗺️**](https://blog2-backup.netlify.app/docs/projects/medium-links)
-
-<br>
-
-### [**🌍⇒docs/projects/my-websites🗺️**](https://blog2-backup.netlify.app/docs/projects/my-websites)
-
-<br>
-
-### [**🌍⇒docs/python/at-length🗺️**](https://blog2-backup.netlify.app/docs/python/at-length)
-
-<br>
-
-### [**🌍⇒docs/python/basics🗺️**](https://blog2-backup.netlify.app/docs/python/basics)
-
-<br>
-
-### [**🌍⇒docs/python/cheat-sheet🗺️**](https://blog2-backup.netlify.app/docs/python/cheat-sheet)
-
-<br>
-
-### [**🌍⇒docs/python/comprehensive-guide🗺️**](https://blog2-backup.netlify.app/docs/python/comprehensive-guide)
-
-<br>
-
-### [**🌍⇒docs/python/examples🗺️**](https://blog2-backup.netlify.app/docs/python/examples)
-
-<br>
-
-### [**🌍⇒docs/python/flow-control🗺️**](https://blog2-backup.netlify.app/docs/python/flow-control)
-
-<br>
-
-### [**🌍⇒docs/python/functions🗺️**](https://blog2-backup.netlify.app/docs/python/functions)
-
-<br>
-
-### [**🌍⇒docs/python/google-sheets-api🗺️**](https://blog2-backup.netlify.app/docs/python/google-sheets-api)
-
-<br>
-
-### [**🌍⇒docs/python/intro-for-js-devs🗺️**](https://blog2-backup.netlify.app/docs/python/intro-for-js-devs)
-
-<br>
-
-### [**🌍⇒docs/python/python-ds🗺️**](https://blog2-backup.netlify.app/docs/python/python-ds)
-
-<br>
-
-### [**🌍⇒docs/python/snippets🗺️**](https://blog2-backup.netlify.app/docs/python/snippets)
-
-<br>
-
-### [**🌍⇒docs/quick-reference/Emmet🗺️**](https://blog2-backup.netlify.app/docs/quick-reference/Emmet)
-
-<br>
-
-### [**🌍⇒docs/quick-reference/all-emojis🗺️**](https://blog2-backup.netlify.app/docs/quick-reference/all-emojis)
-
-<br>
-
-### [**🌍⇒docs/quick-reference/create-react-app🗺️**](https://blog2-backup.netlify.app/docs/quick-reference/create-react-app)
-
-<br>
-
-### [**🌍⇒docs/quick-reference/git-bash🗺️**](https://blog2-backup.netlify.app/docs/quick-reference/git-bash)
-
-<br>
-
-### [**🌍⇒docs/quick-reference/git-tricks🗺️**](https://blog2-backup.netlify.app/docs/quick-reference/git-tricks)
-
-<br>
-
-### [**🌍⇒docs/quick-reference/google-firebase🗺️**](https://blog2-backup.netlify.app/docs/quick-reference/google-firebase)
-
-<br>
-
-### [**🌍⇒docs/quick-reference/heroku-error-codes🗺️**](https://blog2-backup.netlify.app/docs/quick-reference/heroku-error-codes)
-
-<br>
-
-### [**🌍⇒docs/quick-reference/installation🗺️**](https://blog2-backup.netlify.app/docs/quick-reference/installation)
-
-<br>
-
-### [**🌍⇒docs/quick-reference/markdown-dropdowns🗺️**](https://blog2-backup.netlify.app/docs/quick-reference/markdown-dropdowns)
-
-<br>
-
-### [**🌍⇒docs/quick-reference/minifiction🗺️**](https://blog2-backup.netlify.app/docs/quick-reference/minifiction)
-
-<br>
-
-### [**🌍⇒docs/quick-reference/new-repo-instructions🗺️**](https://blog2-backup.netlify.app/docs/quick-reference/new-repo-instructions)
-
-<br>
-
-### [**🌍⇒docs/quick-reference/psql-setup🗺️**](https://blog2-backup.netlify.app/docs/quick-reference/psql-setup)
-
-<br>
-
-### [**🌍⇒docs/quick-reference/pull-request-rubric🗺️**](https://blog2-backup.netlify.app/docs/quick-reference/pull-request-rubric)
-
-<br>
-
-### [**🌍⇒docs/quick-reference/quick-links🗺️**](https://blog2-backup.netlify.app/docs/quick-reference/quick-links)
-
-<br>
-
-### [**🌍⇒docs/quick-reference/topRepos🗺️**](https://blog2-backup.netlify.app/docs/quick-reference/topRepos)
-
-<br>
-
-### [**🌍⇒docs/quick-reference/understanding-path🗺️**](https://blog2-backup.netlify.app/docs/quick-reference/understanding-path)
-
-<br>
-
-### [**🌍⇒docs/quick-reference/vscode-themes🗺️**](https://blog2-backup.netlify.app/docs/quick-reference/vscode-themes)
-
-<br>
-
-### [**🌍⇒docs/react/cheatsheet🗺️**](https://blog2-backup.netlify.app/docs/react/cheatsheet)
-
-<br>
-
-### [**🌍⇒docs/react/createReactApp🗺️**](https://blog2-backup.netlify.app/docs/react/createReactApp)
-
-<br>
-
-### [**🌍⇒docs/react/demo🗺️**](https://blog2-backup.netlify.app/docs/react/demo)
-
-<br>
-
-### [**🌍⇒docs/react/jsx🗺️**](https://blog2-backup.netlify.app/docs/react/jsx)
-
-<br>
-
-### [**🌍⇒docs/react/react-docs🗺️**](https://blog2-backup.netlify.app/docs/react/react-docs)
-
-<br>
-
-### [**🌍⇒docs/react/react-in-depth🗺️**](https://blog2-backup.netlify.app/docs/react/react-in-depth)
-
-<br>
-
-### [**🌍⇒docs/react/react2🗺️**](https://blog2-backup.netlify.app/docs/react/react2)
-
-<br>
-
-### [**🌍⇒docs/react/render-elements🗺️**](https://blog2-backup.netlify.app/docs/react/render-elements)
-
-<br>
-
-### [**🌍⇒docs/reference/awesome-lists🗺️**](https://blog2-backup.netlify.app/docs/reference/awesome-lists)
-
-<br>
-
-### [**🌍⇒docs/reference/awesome-static🗺️**](https://blog2-backup.netlify.app/docs/reference/awesome-static)
-
-<br>
-
-### [**🌍⇒docs/reference/bookmarks🗺️**](https://blog2-backup.netlify.app/docs/reference/bookmarks)
-
-<br>
-
-### [**🌍⇒docs/reference/embed-the-web🗺️**](https://blog2-backup.netlify.app/docs/reference/embed-the-web)
-
-<br>
-
-### [**🌍⇒docs/reference/github-search🗺️**](https://blog2-backup.netlify.app/docs/reference/github-search)
-
-<br>
-
-### [**🌍⇒docs/reference/how-2-reinstall-npm🗺️**](https://blog2-backup.netlify.app/docs/reference/how-2-reinstall-npm)
-
-<br>
-
-### [**🌍⇒docs/reference/how-to-kill-a-process🗺️**](https://blog2-backup.netlify.app/docs/reference/how-to-kill-a-process)
-
-<br>
-
-### [**🌍⇒docs/reference/installing-node🗺️**](https://blog2-backup.netlify.app/docs/reference/installing-node)
-
-<br>
-
-### [**🌍⇒docs/reference/intro-to-nodejs🗺️**](https://blog2-backup.netlify.app/docs/reference/intro-to-nodejs)
-
-<br>
-
-### [**🌍⇒docs/reference/notes-template🗺️**](https://blog2-backup.netlify.app/docs/reference/notes-template)
-
-<br>
-
-### [**🌍⇒docs/reference/psql🗺️**](https://blog2-backup.netlify.app/docs/reference/psql)
-
-<br>
-
-### [**🌍⇒docs/reference/resources🗺️**](https://blog2-backup.netlify.app/docs/reference/resources)
-
-<br>
-
-### [**🌍⇒docs/reference/vscode🗺️**](https://blog2-backup.netlify.app/docs/reference/vscode)
-
-<br>
-
-### [**🌍⇒docs/reference/web-api's🗺️**](https://blog2-backup.netlify.app/docs/reference/web-api's)
-
-<br>
-
-### [**🌍⇒docs/tools/data-structures🗺️**](https://blog2-backup.netlify.app/docs/tools/data-structures)
-
-<br>
-
-### [**🌍⇒docs/tools/dev-utilities🗺️**](https://blog2-backup.netlify.app/docs/tools/dev-utilities)
-
-<br>
-
-### [**🌍⇒docs/tools/google-cloud🗺️**](https://blog2-backup.netlify.app/docs/tools/google-cloud)
-
-<br>
-
-### [**🌍⇒docs/tools/markdown-html🗺️**](https://blog2-backup.netlify.app/docs/tools/markdown-html)
-
-<br>
-
-### [**🌍⇒docs/tools/more-tools🗺️**](https://blog2-backup.netlify.app/docs/tools/more-tools)
-
-<br>
-
-### [**🌍⇒docs/tutorials/google-lighthouse-cli🗺️**](https://blog2-backup.netlify.app/docs/tutorials/google-lighthouse-cli)
